@@ -1,0 +1,2640 @@
+{
+    "msg": {
+        "\\N[1], 你帶左我去邊度？": {
+            "中文": "\\N[1]，你帶了我去哪裡？",
+            "English": "\\N[1], what is this place?"
+        },
+        "我都唔知，我有一日散散下步就黎到呢度": {
+            "中文": "我也不知道，我有一天走著走著就來到這裡了",
+            "English": "I don't know. I arrived here one day while walking around."
+        },
+        "但我聽倒怪聲就走左啦。。。": {
+            "中文": "但我聽倒怪聲就走了。。。",
+            "English": "But I've heard some weird noise and escaped..."
+        },
+        "有我喺度唔使驚喎": {
+            "中文": "有我在不用怕喔",
+            "English": "No worry, I gotchu!"
+        },
+        "\\N[2]，你都係慳啲啦": {
+            "中文": "\\N[2]，你還是省省吧",
+            "English": "\\N[2], save your breath."
+        },
+        "。。。": {
+            "中文": "。。。",
+            "English": "..."
+        },
+        "我。。\\.我地都係。。": {
+            "中文": "我。。\\.我們還是。。",
+            "English": "W.. We better.."
+        },
+        "快。。\\.快啲入去睇下啦！": {
+            "中文": "快。。\\.快進去看看吧！",
+            "English": "Le.. Let's check it out!"
+        },
+        "喂！等。。等陣！": {
+            "中文": "嘿！等。。等一下！",
+            "English": "Hey! W.. Wait!!"
+        },
+        "呢度一個人都冇。。。": {
+            "中文": "這裡一個人也沒有。。。",
+            "English": "There's no one here..."
+        },
+        "咁咪啱囉，我地可以喺度尋寶！": {
+            "中文": "那就對了，我們可以在尋寶！",
+            "English": "That's right! We can hunt for treasure!"
+        },
+        "但係頭先唔係有啲怪聲咩": {
+            "中文": "但是剛才不是有點怪聲嗎",
+            "English": "Wasn't there a weird noise.."
+        },
+        "會唔會有啲咩怪物㗎。。": {
+            "中文": "會不會有甚麼怪物啊。。",
+            "English": "Would it be a monster...?"
+        },
+        "唔好咁細膽啦！": {
+            "中文": "別這麼小膽啦！",
+            "English": "Don't be so timid!"
+        },
+        "有咩事咪跑出去囉": {
+            "中文": "有甚麼事就跑出去吧",
+            "English": "Just run if anything happens"
+        },
+        "好似。。。跑唔倒出去啦\\.。\\.。\\.。": {
+            "中文": "好像。。。跑不倒出去啦\\.。\\.。\\.。",
+            "English": "Seems like.. we can't run anymore\\..\\..\\.."
+        },
+        "\\.。\\.。\\.。": {
+            "中文": "\\.。\\.。\\.。",
+            "English": "\\..\\..\\.."
+        },
+        "唔\\.唔緊要，跟實我一定冇事嘅": {
+            "中文": "不\\.不緊要，跟貼我一定沒事的",
+            "English": "It\\.'s fine. Just follow me."
+        },
+        "我地一齊搵出口啦": {
+            "中文": "我地一起找出口吧",
+            "English": "Let's find the exit together."
+        },
+        "你千祈唔好擗低我呀。。": {
+            "中文": "你千萬不要留下我一個人啊。。",
+            "English": "Please don't leave me alone.."
+        },
+        "操作教學：\n方向鍵/WASD：移動、選擇\nZ/Enter：確定\nX/Esc：取消、選單": {
+            "中文": "操作教學：\n方向鍵/WASD：移動、選擇\nZ/Enter：確定\nX/Esc：取消、選單",
+            "English": "Tutorial: \narrow/WASD: movement, choice \nZ/Enter: confirm \nX/Esc: cancel, menu"
+        },
+        "開啟選單可以查看獲得的道具": {
+            "中文": "開啟選單可以查看獲得的道具",
+            "English": "Open menu to view collected items."
+        },
+        "本遊戲的關卡需要先查看所有需要的提示才能開啟": {
+            "中文": "本遊戲的關卡需要先查看所有需要的提示才能開啟",
+            "English": "In this game, you need to view all the clues before completing puzzle."
+        },
+        "看攻略無腦通關可不行喔~": {
+            "中文": "看攻略無腦通關可不行喔~",
+            "English": "Watching walkthrough without using your brain is bad bad."
+        },
+        "死啦，呢度好似收唔倒訊號。。": {
+            "中文": "糟糕，這裡好像收不倒訊號。。",
+            "English": "Oh no, seems like there's no signal here.."
+        },
+        "找到 地下室通道鎖匙\\I[195]": {
+            "中文": "找到 地下室通道鑰匙\\I[195]",
+            "English": "Found Basement Key\\I[195]"
+        },
+        "失去 一盤肉醬意粉\\I[266]": {
+            "中文": "失去 一盤肉醬意粉\\I[266]",
+            "English": "Lost Spaghetti Bolognese\\I[266]"
+        },
+        "你不需要對講機": {
+            "中文": "你不需要對講機",
+            "English": "You don't need the walkie-talkie"
+        },
+        "你只有一個對講機": {
+            "中文": "你只有一個對講機",
+            "English": "You only have one walkie-talkie"
+        },
+        "對講機不在你身上": {
+            "中文": "對講機不在你身上",
+            "English": "The walkie-talkie is not with you"
+        },
+        "有甚麼打開了": {
+            "中文": "有甚麼打開了",
+            "English": "Something opened"
+        },
+        "你把兩半的鎖匙合起來了！": {
+            "中文": "你把兩半的鑰匙合起來了！",
+            "English": "You combined the two halves of the key!"
+        },
+        "找到 廚房鎖匙\\I[195]": {
+            "中文": "找到 廚房鑰匙\\I[195]",
+            "English": "Found Kitchen Key\\I[195]"
+        },
+        "你要找到另一半的鎖匙才有用": {
+            "中文": "你要找到另一半的鑰匙才有用",
+            "English": "You need to find the other half of the key for it to be useful"
+        },
+        "小心點": {
+            "中文": "小心點",
+            "English": "Be careful"
+        },
+        "你確定要重設這個小遊戲嗎？": {
+            "中文": "你確定要重設這個小遊戲嗎？",
+            "English": "Are you sure you want to reset this mini-game?"
+        },
+        "已經點亮所有水晶！": {
+            "中文": "已經點亮所有水晶！",
+            "English": "All crystals have been lit!"
+        },
+        "1。。\\|2。。\\|3": {
+            "中文": "1。。\\|2。。\\|3",
+            "English": "1...\\|2...\\|3"
+        },
+        "收起你嘅恐懼，收起你嘅不安，收起你嘅意志": {
+            "中文": "收起你的恐懼，收起你的不安，收起你的意志",
+            "English": "Put away your fear, put away your anxiety, put away your will."
+        },
+        "跟住我嘅聲音，我將會帶你進入美夢": {
+            "中文": "跟著我的聲音，我將帶你進入美夢",
+            "English": "Follow my voice, and I will take you into a sweet dream."
+        },
+        "你黎到一片青青草原,進入一條小路": {
+            "中文": "你來到一片青青草原，進入一條小路",
+            "English": "You arrive at a green meadow and enter a small path."
+        },
+        "眼前係一棟舊式嘅大宅": {
+            "中文": "眼前是一棟舊式的大宅",
+            "English": "Before me stands an old-style mansion."
+        },
+        "你將會喺呢度開始探索嘅旅程": {
+            "中文": "你將從這裡開始探索的旅程",
+            "English": "Your journey of exploration will begin here."
+        },
+        "直至你搵出呢棟大宅嘅秘密": {
+            "中文": "直至你找出這棟大宅的秘密",
+            "English": "Until you find out the secret of this mansion."
+        },
+        "打開眼睛，仔細咁望下周圍": {
+            "中文": "打開眼睛，仔細的看看周圍",
+            "English": "Open your eyes and look around carefully."
+        },
+        "你身處喺邊度？": {
+            "中文": "你身處在哪裡？",
+            "English": "Where are you?"
+        },
+        "草原嘅小路": {
+            "中文": "草原的小路",
+            "English": "Grassland path."
+        },
+        "大宅嘅前面": {
+            "中文": "大宅的前面",
+            "English": "The front of the mansion."
+        },
+        "好,很好": {
+            "中文": "好，很好",
+            "English": "Good, very good."
+        },
+        "宜家你地就係\\N[1]同\\N[2]": {
+            "中文": "現在你們就是\\N[1]和\\N[2]",
+            "English": "Now you are \\N[1] and \\N[2]"
+        },
+        "開始你地嘅故事啦": {
+            "中文": "開始你們的故事吧",
+            "English": "Let your story begin"
+        },
+        "普通結局：\\!": {
+            "中文": "普通結局:\\!",
+            "English": "Normal ending: \\!"
+        },
+        "<沉迷遊戲>": {
+            "中文": "<沉迷遊戲>",
+            "English": "<Games Addicted>"
+        },
+        "感謝遊玩！": {
+            "中文": "感謝遊玩！",
+            "English": "Thank you for playing!"
+        },
+        "直至你搵呢棟大宅嘅秘密": {
+            "中文": "直至你找出這棟大宅的秘密",
+            "English": "Until you find out the secret of the mansion."
+        },
+        "我地都喺夢入面": {
+            "中文": "我地都在夢裡",
+            "English": "We were both in a dream."
+        },
+        "你！": {
+            "中文": "你!",
+            "English": "You!"
+        },
+        "真係聰明": {
+            "中文": "真聰明",
+            "English": "Really smart."
+        },
+        "恭喜你成為第一個通關嘅玩家": {
+            "中文": "恭喜你成為第一個通關的玩家",
+            "English": "Congratulations on becoming the first player to complete the game!"
+        },
+        "吓吓！貓，你好勁吖！": {
+            "中文": "嘩嘩！貓，你好厲害啊！",
+            "English": "Wow! Mao, you're so good at this!"
+        },
+        "你先係呀，邱": {
+            "中文": "你才是呀，邱",
+            "English": "You are the smart one, Yau."
+        },
+        "你地兩位都好犀利！": {
+            "中文": "你們兩位都很犀利！",
+            "English": "You two are both genius!"
+        },
+        "成個遊戲真係好有感覺": {
+            "中文": "整個遊戲真的很有感覺",
+            "English": "The whole game is really great."
+        },
+        "同VR比更加有沉浸式嘅體驗": {
+            "中文": "跟VR比更加有沉浸式的體驗",
+            "English": "It offers a more immersive experience compared to VR."
+        },
+        "你地鍾意就好啦！": {
+            "中文": "你們喜歡就好了！",
+            "English": "As long as you like it!"
+        },
+        "記得喺我地嘅網頁留低5星好評": {
+            "中文": "記得在我地的網頁留下5星好評",
+            "English": "Remember to leave a 5-star review on our website."
+        },
+        "我會㗎啦！": {
+            "中文": "我會的啦！",
+            "English": "Will do!"
+        },
+        "哈哈，記得唔好傳攻略出去": {
+            "中文": "哈哈，記得不要傳攻略出去",
+            "English": "Haha, remember not to share the walkthrough guide!"
+        },
+        "真結局：\\!": {
+            "中文": "真結局:\\!",
+            "English": "True ending: \\!"
+        },
+        "<逃脫密室>": {
+            "中文": "<逃脫密室>",
+            "English": "<Escape Room>"
+        },
+        "好暖~": {
+            "中文": "好暖~",
+            "English": "So warm~"
+        },
+        "唔好行咁近啦，好危險㗎": {
+            "中文": "不要走那麼近啦，很危險的",
+            "English": "Don't go that close, it's dangerous."
+        },
+        "都係唔好行咁近好啲": {
+            "中文": "還是不要走那麼近比較好",
+            "English": "It's better not to go that close."
+        },
+        "個爐後面好似有條密道": {
+            "中文": "爐子後面好像有條密道",
+            "English": "There seems to be a secret passage behind the furnace."
+        },
+        "都係搵番\\N[2]先入去": {
+            "中文": "都是找回\\N[2]才進去",
+            "English": "I should find N[2] before going in,"
+        },
+        "一齊入去啦！": {
+            "中文": "一起進去吧！",
+            "English": "Let's get in together!"
+        },
+        "等陣！我好似聽倒。。。": {
+            "中文": "等一下！我好像聽到了。。。",
+            "English": "Wait a minute! I think I heard something..."
+        },
+        "沒有鎖匙": {
+            "中文": "沒有鑰匙",
+            "English": "No key"
+        },
+        "睇黎係地下室，一定收埋咩秘密！": {
+            "中文": "看來是地下室，一定收著甚麼秘密！",
+            "English": "Seem like a basement. There must be some hidden secrets!"
+        },
+        "開左啦": {
+            "中文": "開了啦",
+            "English": "It's opened!"
+        },
+        "快啲入去啦！": {
+            "中文": "快進去吧！",
+            "English": "Hurry up and go inside!"
+        },
+        "等埋我吖！！": {
+            "中文": "等埋我喔！ !",
+            "English": "Wait for me!!"
+        },
+        "\\N[1]快啲過黎啦": {
+            "中文": "\\N[1] 快過來吧",
+            "English": "\\N[1] Get over here!"
+        },
+        "門。。\\.門閂左\\.。\\.。\\.。": {
+            "中文": "門。。 \\.門關上了\\.。\\.。\\.。",
+            "English": "T...\\. the door is closed\\..\\..\\.."
+        },
+        "吓\\.吓\\.吓": {
+            "中文": "啥\\.啥\\.啥",
+            "English": "Huh huh huh"
+        },
+        "開唔倒 點算\\.。\\.。\\.。": {
+            "中文": "開不了 怎麼辦\\.。\\.。\\.。",
+            "English": "It can't be opened. What should we do...?"
+        },
+        "唯有分開搵路啦": {
+            "中文": "唯有分頭找路吧",
+            "English": "Let's split up and find the way out."
+        },
+        "搵倒咩線索就番黎呢度會合": {
+            "中文": "找倒甚麼線索就回到這裡會合",
+            "English": "Meet here if you find any clues."
+        },
+        "唯有係咁啦": {
+            "中文": "唯有如此吧",
+            "English": "That's the only way."
+        },
+        "要轉換角色嗎？": {
+            "中文": "要轉換角色嗎？",
+            "English": "Do you want to switch roles?"
+        },
+        "好香吖，咩味黎㗎？": {
+            "中文": "好香喔，甚麼味道呢？",
+            "English": "It smells so good, what is this smell?"
+        },
+        "我唔小心叫左個蘋果批。。": {
+            "中文": "我不小心叫了一個蘋果批。。",
+            "English": "I accidentally ordered an apple pie..."
+        },
+        "你食唔食呀？": {
+            "中文": "你吃嗎？",
+            "English": "Do you want to eat it?"
+        },
+        "咦！我呢邊咁啱有人想要野食": {
+            "中文": "咦！我這邊剛好有人想吃東西",
+            "English": "Hey! There's someone here who wants some food."
+        },
+        "啱晒！我呢邊有人想要野食": {
+            "中文": "正好！我這邊有人想要吃的",
+            "English": "Perfect timing! Someone over here wants some food."
+        },
+        "攞去啦，反正我都唔肚餓": {
+            "中文": "拿去吧，反正我也不餓",
+            "English": "Take it, I'm not hungry anyway."
+        },
+        "逃出呢度重要啲": {
+            "中文": "逃出這裡重要一點",
+            "English": "Escaping is more important."
+        },
+        "出到去一齊食餐好嘅！": {
+            "中文": "出去一起吃好的！",
+            "English": "Let's have a good meal when we get out!"
+        },
+        "我地出倒去先講啦。。": {
+            "中文": "我地出倒去先說吧。。",
+            "English": "Let's discuss this after we survive..."
+        },
+        "你唔好咁掃興啦": {
+            "中文": "你別這麼掃興啦",
+            "English": "Don't be such a spoilsport!"
+        },
+        "現在兩人也可以使用\\C[1]蘋果批": {
+            "中文": "現在兩人也可以使用\\C[1]蘋果批",
+            "English": "Now both characters can use \\C[1] Apple Pie"
+        },
+        "\\N[2]好似唔喺對面。。": {
+            "中文": "\\N[2]好像不在對面。。",
+            "English": "It seems like \\N[2] is not on the other side."
+        },
+        "\\N[2]，我搵到螺絲托呀": {
+            "中文": "\\N[2]，我找到螺絲托呀",
+            "English": "\\N[2], I got a screwdriver."
+        },
+        "叻仔喎~": {
+            "中文": "叻仔喔~",
+            "English": "Good boy~"
+        },
+        "我咁啱我有用，借比我吖": {
+            "中文": "我剛好我有用 借給我喔",
+            "English": "I could use that, lend it to me"
+        },
+        "嗯，攞去啦": {
+            "中文": "嗯，拿去吧",
+            "English": "Alright, take it."
+        },
+        "現在兩人也可以使用\\C[1]螺絲批": {
+            "中文": "現在兩人也可以使用\\C[1]螺絲批",
+            "English": "Now both characters can use C[1] Screwdriver."
+        },
+        "無法開啟": {
+            "中文": "無法開啟",
+            "English": "Unable to open"
+        },
+        "連鎖匙窿都冇。。。": {
+            "中文": "連鑰匙窿都沒有。。。",
+            "English": "There is not even a keyhole..."
+        },
+        "點部署": {
+            "中文": "怎麼辨",
+            "English": "What should we do..."
+        },
+        "廚房開火時，大廳禁行。\n\n--管理員": {
+            "中文": "廚房開火時，大廳禁行。\n\n--管理員",
+            "English": "Kichen at flame. Hall access denied.\n\n--Manager"
+        },
+        "你企喺人來人往嘅街上面": {
+            "中文": "你站在人來人往的街上",
+            "English": "You are standing on a busy street."
+        },
+        "眼前係一間密室逃脫舖頭": {
+            "中文": "眼前是一家密室逃脫店",
+            "English": "In front of you, there's an escape room shop"
+        },
+        "嗯\\.。\\.。": {
+            "中文": "嗯\\.。 \\.。",
+            "English": "Hmm\\..\\.."
+        },
+        "你推開門，見倒一班解謎愛好者": {
+            "中文": "你推開門，看倒一群解謎愛好者",
+            "English": "You push the door and see a group of puzzle enthusiasts."
+        },
+        "佢地叫住你\\.，叫你老闆娘": {
+            "中文": "他們叫著你\\.，叫你老闆娘",
+            "English": "They are calling you\\., calling you \"lady boss\"."
+        },
+        "嗯\\.。\\.。我\\.。\\.。\\.。": {
+            "中文": "嗯\\.。 \\。我\\.。\\.。\\.。",
+            "English": "Hmm\\..\\.. I\\..\\..\\.."
+        },
+        "好\\.。好": {
+            "中文": "好\\.。好",
+            "English": "Good\\.... good."
+        },
+        "你地點入黎呢度？管理員又冇好好做野。。": {
+            "中文": "你們點進來這裡？管理員又沒有好好做事。。",
+            "English": "How did you get in here? The manager isn't doing their job properly again."
+        },
+        "你對個女仔做左啲咩？！": {
+            "中文": "你對個女生做了甚麼？ !",
+            "English": "What did you do to that girl?!"
+        },
+        "妹妹,郁手係唔啱㗎": {
+            "中文": "妹妹，動手是不對的",
+            "English": "Lady, it's not right to use violence."
+        },
+        "唔好怪我": {
+            "中文": "別怪我",
+            "English": "Don't blame me."
+        },
+        "\\{孫！管理員！": {
+            "中文": "\\{孫！管理員！",
+            "English": "\\{Sonyo! Manager!"
+        },
+        "主人！": {
+            "中文": "主人!",
+            "English": "Master!"
+        },
+        "\\{主\\|。。人！": {
+            "中文": "\\{主\\|。。人!",
+            "English": "\\{Ma\\|...Master!"
+        },
+        "你係地底果個人": {
+            "中文": "你是地底的那個人",
+            "English": "You are the person in the prison."
+        },
+        "捉住佢地": {
+            "中文": "抓住他們",
+            "English": "Hold them tight"
+        },
+        "快啲叫醒個女仔！": {
+            "中文": "快把女孩叫醒！",
+            "English": "Wake the girl up now!"
+        },
+        "佢係我老婆，唔到你管我地嘅家事": {
+            "中文": "她是我老婆，不到你管我地的家事",
+            "English": "She is my wife, and it is not your business to interfere with my family affairs."
+        },
+        "你\\.。你就係\\N[3]？": {
+            "中文": "你\\.。你就是\\N[3]？",
+            "English": "You\\... you're \\N[3]?"
+        },
+        "喔,你知道我係邊個": {
+            "中文": "喔，你知道我是誰",
+            "English": "Oh, so you know who I am."
+        },
+        "就係你催眠左地底果啲人？": {
+            "中文": "就是你催眠了地底的那些人？",
+            "English": "Are you the one who hypnotizes those people in the underground?"
+        },
+        "佢地都係失敗品": {
+            "中文": "他們都是失敗品",
+            "English": "They are all failure."
+        },
+        "包括你地身後面嘅兩個人都係": {
+            "中文": "包括你們身後的兩個人也是",
+            "English": "Including the two people behind you."
+        },
+        "不過我終於搵倒成功嘅方法": {
+            "中文": "不過我終於找倒成功的方法",
+            "English": "However, I finally found a successful method."
+        },
+        "\\N[4]已經進入左我設計好嘅美夢": {
+            "中文": "\\N[4]已經進入了我設計好的美夢",
+            "English": "\\N[4] has entered the beautiful dream I designed."
+        },
+        "你地冇咁易叫得醒佢": {
+            "中文": "你們沒那麼容易叫醒他",
+            "English": "You can't wake her up so easily."
+        },
+        "強行叫醒佢可能傷害倒佢嘅精神": {
+            "中文": "強行叫醒他可能傷害倒他的精神",
+            "English": "Forcibly waking her up might harm her mind."
+        },
+        "老\\.老公，我地得左啦！": {
+            "中文": "老\\.老公，我地成功了！",
+            "English": "Honey, we've got it!"
+        },
+        "咦？": {
+            "中文": "咦？",
+            "English": "Huh?"
+        },
+        "\\N[3]，係你！係你催眠左我！": {
+            "中文": "\\N[3]，是你！是你催眠了我！",
+            "English": "\\N[3], it's you! You're the one who hypnotized me!"
+        },
+        "的確係我": {
+            "中文": "的確是我",
+            "English": "It was indeed me."
+        },
+        "但係事實上，你都好正常咁醒番": {
+            "中文": "但是事實上，你也很正常的醒來",
+            "English": "But in fact, you woke up just normally."
+        },
+        "你冇變成怪人": {
+            "中文": "你沒有變成怪人",
+            "English": "You didn't become a weirdo."
+        },
+        "你依然係你": {
+            "中文": "你依然是你",
+            "English": "You are still you."
+        },
+        "我\\.，我仲係我": {
+            "中文": "我\\.，我還是我",
+            "English": "I am still me."
+        },
+        "啱啱\\.\\.好似只係發左一場夢": {
+            "中文": "剛剛\\.\\.好像只做了一場夢",
+            "English": "Just now... it seems like I just had a dream."
+        },
+        "呢場夢係咪我地一齊開密室逃脫舖頭成為左大熱": {
+            "中文": "這場夢是否我們一起開密室逃脫店裡成為了大熱",
+            "English": "Is this dream about us opening an escape room shop together, and it went viral?"
+        },
+        "新一代嘅年青人都鍾意我地獨特嘅玩法": {
+            "中文": "新一代的年青人都喜歡我地獨特的玩法",
+            "English": "The young people love our unique gameplay."
+        },
+        "我地喺網上爆紅，仲吸引左外國嘅網紅黎挑戰": {
+            "中文": "我地在網上爆紅，還吸引了外國的網紅來挑戰",
+            "English": "We became influencers, and even attracting foreign KOL to come and challenge us."
+        },
+        "你\\.。你點知㗎": {
+            "中文": "你\\..你怎麼知道的",
+            "English": "H... how did you know that..."
+        },
+        "呢個就係我設計嘅美夢": {
+            "中文": "這就是我設計的美夢",
+            "English": "This is the dream I designed."
+        },
+        "雖然佢只係一場夢，但佢無比真實": {
+            "中文": "雖然它只是一場夢，但它無比真實",
+            "English": "Although it was just a dream, it felt incredibly real."
+        },
+        "好似親身體驗倒我地當初嘅夢想": {
+            "中文": "像親身體驗倒我地當初的夢想",
+            "English": "It felt like I was personally experiencing our original fantasy."
+        },
+        "只係醒番望倒身邊嘅反差，先知呢個係一場夢": {
+            "中文": "只是醒來看倒身邊的反差，才知道這是一場夢",
+            "English": "Only when I woke up and looked at the contrast around me did I realize it was all a dream."
+        },
+        "咁老公，你係咪成功左啦！": {
+            "中文": "那麼老公，你是不是成功了！",
+            "English": "Well, honey, you’ve succeeded, aren't you!?"
+        },
+        "我地可以重開番我地嘅業務": {
+            "中文": "我地可以重開回我地的業務",
+            "English": "We can reopen our shop."
+        },
+        "呢兩位就係我地東山再起嘅第一組玩家": {
+            "中文": "這兩位就是我地東山再起的第一組玩家",
+            "English": "These two are the first group of players since our comeback."
+        },
+        "仲差一步": {
+            "中文": "還差一步",
+            "English": "There's one more step away."
+        },
+        "只要催眠佢地意識嘅同時，比番身體嘅控制權佢地": {
+            "中文": "只要催眠他們意識的同時，給回身體的控制權他們",
+            "English": "As long as they gain control to their bodies while their consciousness remain in the dream I design."
+        },
+        "佢地就可以一路代入遊戲嘅角色，一路親手解迷": {
+            "中文": "他們就能一邊代入遊戲的角色，一邊親手解迷",
+            "English": "They can immerse theirselves in the game's characters and solve puzzles with their own physical hands."
+        },
+        "好似夢遊咁！": {
+            "中文": "像夢遊一樣！",
+            "English": "It's like sleepwalking!"
+        },
+        "我設計嘅機關都會有用！": {
+            "中文": "我設計的機關也會有用！",
+            "English": "All the mechanisms I designed will be useful too!"
+        },
+        "咁就可以大幅減少醒番嘅反差感": {
+            "中文": "這樣就能大幅減少醒番的反差感",
+            "English": "This can significantly reduce the contrast before and after the experience."
+        },
+        "不過呢兩個人的確可以成為我完成呢一步嘅實驗品": {
+            "中文": "不過這兩個人的確可以成為我完成這一步的實驗品",
+            "English": "However, these two people can indeed become my experimental subjects for completing this step."
+        },
+        "黎啦\\.，成為我設計嘅遊戲嘅試玩員": {
+            "中文": "來吧\\.，成為我設計的遊戲的試玩員",
+            "English": "Come, become the testers for the game I designed."
+        },
+        "孫，管理員，遮住佢地嘅口同眼": {
+            "中文": "孫，管理員，遮住他們的口和眼睛",
+            "English": "Sonyo, manager, covered their mouths and eyes."
+        },
+        "你。\\.其實真係催眠左\\N[4]，係咪？": {
+            "中文": "你。\\.其實真的催眠了\\N[4]，不是嗎？",
+            "English": "You\\... you actually hypnotized \\N[4], didn't you?"
+        },
+        "你點知㗎！？": {
+            "中文": "你怎麼知道的！ ?",
+            "English": "How did you know that?!"
+        },
+        "我睇左\\N[4]嘅日記": {
+            "中文": "我看了\\N[4]的日記",
+            "English": "I read \\N[4]'s diary."
+        },
+        "佢嘅性格根本就唔係咁": {
+            "中文": "他的性格根本就不是這樣",
+            "English": "Her personality is nothing like that at all."
+        },
+        "佢因為你催眠人，已經對你失去晒信任": {
+            "中文": "他因為你催眠別人，已經對你失去了信任",
+            "English": "Because you hypnotized people, she has lost all trust in you."
+        },
+        "所以佢先會喺呢間屋整咁多機關隔開你": {
+            "中文": "所以他才會在這房屋裡弄這麼多機關隔開你",
+            "English": "That's why she set up so many mechanisms to separate you in this house."
+        },
+        "收聲！": {
+            "中文": "閉嘴！",
+            "English": "Shut up!"
+        },
+        "\\N[4]，你唔好信佢": {
+            "中文": "\\N[4]，你不要相信她",
+            "English": "\\N[4], don't believe him."
+        },
+        "我係你老公，我點會做呢啲野": {
+            "中文": "我是你老公，我怎麼會做這些事",
+            "English": "I'm your husband, why would I do such a thing?"
+        },
+        "你知道我地都係一心想要改進我地嘅密室逃脫體驗": {
+            "中文": "你知道我們都是一心想改進我地的密室逃脫體驗",
+            "English": "You know we're all focused on improving our escape room experience."
+        },
+        "老公，我信你！": {
+            "中文": "老公，我相信你！",
+            "English": "Honey, I trust you!"
+        },
+        "哼，細路，根本就冇你講嘅野": {
+            "中文": "哼，孩子，根本就沒有你說的話",
+            "English": "Hmm, kid, there's nothing like you said."
+        },
+        "唔好去咁遠住啦": {
+            "中文": "先不要去那麼遠啦",
+            "English": "Don't go so far away for now!"
+        },
+        "呢度唔係地下室": {
+            "中文": "這裡不是地下室",
+            "English": "This is not a basement."
+        },
+        "接待處": {
+            "中文": "接待處",
+            "English": "Reception"
+        },
+        "如沒有開門，請到管理員房間找管理員。": {
+            "中文": "如沒有開門，請到管理員房間找管理員。",
+            "English": "If the door is not open, please go to the manager's room to find the manager."
+        },
+        "客房 1": {
+            "中文": "客房1",
+            "English": "Guest Room 1"
+        },
+        "客房 2": {
+            "中文": "客房2",
+            "English": "Guest Room 2"
+        },
+        "個電話條線。。。斷左": {
+            "中文": "這條電話線。。。斷了",
+            "English": "The telephone line... is broken."
+        },
+        "會議記錄1036：": {
+            "中文": "會議記錄1036：",
+            "English": "Meeting Minutes 1036:"
+        },
+        "管理員：客人的名字是？": {
+            "中文": "管理員：客人的名字是？",
+            "English": "Manager: May I have your name, please?"
+        },
+        "客人：孫陽 X X": {
+            "中文": "客人：孫陽X X",
+            "English": "Guest: XXX Sonyo."
+        },
+        "管理員：客人的電話號碼是？": {
+            "中文": "管理員：客人的電話號碼是？",
+            "English": "Manager: And your phone number?"
+        },
+        "客人：1144423333888881": {
+            "中文": "客人：1144423333888881",
+            "English": "Guest: 1144423333888881."
+        },
+        "管理員：這也太長了吧，改一改格式吧": {
+            "中文": "管理員：這也太長了吧，改一改格式吧",
+            "English": "Manager: This is way too long, let me change the format."
+        },
+        "=>21 34 12 43 58 11": {
+            "中文": "=>21 34 12 43 58 11",
+            "English": "=>21 34 12 43 58 11"
+        },
+        "管理員：一於就這樣": {
+            "中文": "管理員：一於就這樣",
+            "English": "Manager: That looks great."
+        },
+        "接待處的電話": {
+            "中文": "接待處的電話",
+            "English": "Reception telephone"
+        },
+        "有接通和掛斷鍵": {
+            "中文": "有接通和掛斷鍵",
+            "English": "There are answer and hang-up buttons."
+        },
+        "電話自動掛斷": {
+            "中文": "電話自動掛斷",
+            "English": "The call ended automatically."
+        },
+        "咁奇怪嘅": {
+            "中文": "這麼奇怪的",
+            "English": "That's strange."
+        },
+        "沒有電話打入": {
+            "中文": "沒有電話打入",
+            "English": "No calls coming in."
+        },
+        "《地下室操作指南》": {
+            "中文": "《地下室操作指南》",
+            "English": "\"Basement Operation Guide\""
+        },
+        "這文件只供管理員查看": {
+            "中文": "此文件僅供管理員查看",
+            "English": "This file is for manager viewing only."
+        },
+        "那個男人太可怕了，一定要好好管著他": {
+            "中文": "那個男人太可怕了，一定要好好管著他",
+            "English": "That man is terrifying. We must keep him under control."
+        },
+        "可惜不能餓死他，管理員請按時送飯": {
+            "中文": "可惜不能餓死他，管理員請按時送飯",
+            "English": "It's a pity we can't let him starve. Manager, please deliver his food on time."
+        },
+        "如欲開門請打開正確數量的箱子": {
+            "中文": "如欲開門請打開正確數量的箱子",
+            "English": "To open the door, please open the correct number of boxes."
+        },
+        "紅色箱子：1個": {
+            "中文": "紅色箱子：1個",
+            "English": "Red Box: one"
+        },
+        "藍色箱子：3個": {
+            "中文": "藍色箱子：3個",
+            "English": "Blue boxes: three"
+        },
+        "綠色箱子：": {
+            "中文": "綠色箱子：",
+            "English": "Green box:"
+        },
+        "  如紅色箱子的數字是\\C[1]單數\\C[0]：2個": {
+            "中文": "  如紅色箱子的數字是\\C[1]單數\\C[0]：2個",
+            "English": "  If the number of the red box is \\C[1]odd\\C[0]: two"
+        },
+        "  如紅色箱子的數字是\\C[1]雙數\\C[0]：3個": {
+            "中文": "  如紅色箱子的數字是\\C[1]雙數\\C[0]：3個",
+            "English": "  If the number of the red box is \\C[1]even\\C[0]: three"
+        },
+        "注意：千萬不要打開最左邊的藍色箱子": {
+            "中文": "注意：千萬不要打開最左邊的藍色箱子",
+            "English": "Note: Do not open the leftmost blue box no matter what."
+        },
+        "請定時清理地下室的鼠患": {
+            "中文": "請定時清理地下室的鼠患",
+            "English": "Please clean the basement regularly to prevent mice infestation."
+        },
+        "一旦發現屋子有損壞，請盡快修理": {
+            "中文": "一旦發現房子有損壞，請盡快修理",
+            "English": "If any damage is found in the house, please repair it ASAP."
+        },
+        "接待處電話號碼： 38 11 42 57 33": {
+            "中文": "接待處電話號碼：38 11 42 57 33",
+            "English": "Reception telephone number: 38 11 42 57 33"
+        },
+        "個號碼咁奇怪嘅？": {
+            "中文": "號碼怎麼那麼奇怪？",
+            "English": "Why is that number so strange?"
+        },
+        "有個被\\C[2]4位\\C[0]密碼鎖上的盒子": {
+            "中文": "有個被\\C[2]4位\\C[0]密碼鎖上的盒子",
+            "English": "There is a box locked with a \\C[2]4-digit\\C[0] combination lock"
+        },
+        "你知道密碼嗎？": {
+            "中文": "你知道密碼嗎？",
+            "English": "Do you know the password?"
+        },
+        "找到 客房2鎖匙\\I[195]": {
+            "中文": "找到客房2鑰匙\\I[195]",
+            "English": "Found Guest Room 2 Key\\I[195]"
+        },
+        "密碼不正確": {
+            "中文": "密碼不正確",
+            "English": "Incorrect password"
+        },
+        "或者你可以問問\\C[1]\\N[2]": {
+            "中文": "或許你可以問問\\C[1]\\N[2]",
+            "English": "Maybe you could ask \\C[1]\\N[2]"
+        },
+        "或者你應該問問\\C[1]\\N[2]": {
+            "中文": "或許你該問問\\C[1]\\N[2]",
+            "English": "Maybe you should ask \\C[1]\\N[2]"
+        },
+        "空的糖果罐": {
+            "中文": "空的糖果罐",
+            "English": "Empty candy jar"
+        },
+        "冷掉的茶": {
+            "中文": "冷掉的茶",
+            "English": "Cold tea"
+        },
+        "一堆看不明白的設計圖紙": {
+            "中文": "一堆看不懂的設計圖紙",
+            "English": "A bunch of incomprehensible design drawings"
+        },
+        "還有餘溫的咖啡": {
+            "中文": "還有餘溫的咖啡",
+            "English": "The coffee was still warm"
+        },
+        "唔通最近呢度有人？": {
+            "中文": "不是最近這裡有人？",
+            "English": "Is someone here recently?"
+        },
+        "生長過剩的雜草": {
+            "中文": "生長過剩的雜草",
+            "English": "Excessive growth of weeds"
+        },
+        "精心打理好的鮮花": {
+            "中文": "精心打理好的鮮花",
+            "English": "Carefully arranged fresh flowers"
+        },
+        "-列印工作已完成-": {
+            "中文": "-列印工作已完成-",
+            "English": "-Printing is completed-"
+        },
+        "有張啱啱印好嘅紙": {
+            "中文": "有一張剛印好的紙",
+            "English": "A piece of paper that has just been printed."
+        },
+        "本週菜單：": {
+            "中文": "本週菜單：",
+            "English": "This week's menu:"
+        },
+        "一：蘋果批": {
+            "中文": "一：蘋果批",
+            "English": "Mon: Apple Pie"
+        },
+        "二：蘋果批": {
+            "中文": "二：蘋果批",
+            "English": "Tue: Apple Pie"
+        },
+        "三：蘋果批": {
+            "中文": "三：蘋果批",
+            "English": "Wed: Apple Pie"
+        },
+        "四：蘋果批": {
+            "中文": "四：蘋果批",
+            "English": "Thu: Apple Pie"
+        },
+        "五：蘋果批": {
+            "中文": "五：蘋果批",
+            "English": "Fri: Apple Pie"
+        },
+        "六：蘋果批": {
+            "中文": "六：蘋果批",
+            "English": "Sat: Apple Pie"
+        },
+        "日：蘋果批": {
+            "中文": "日：蘋果批",
+            "English": "Sun: Apple Pie"
+        },
+        "空無一物": {
+            "中文": "空無一物",
+            "English": "Nothing is there"
+        },
+        "放著一堆慰問品": {
+            "中文": "放著一堆慰問品",
+            "English": "A pile of gifts"
+        },
+        "角落還有一點私房錢": {
+            "中文": "角落還有一點私房錢",
+            "English": "A little bit of secret money in the corner."
+        },
+        "封塵的房客紀錄": {
+            "中文": "封塵的房客紀錄",
+            "English": "Sealed guest records"
+        },
+        "《密室逃脫心得》": {
+            "中文": "《密室逃脫心得》",
+            "English": "\"Escape Room Tips\""
+        },
+        "原則一：摸遍天花地板，也不依人示範": {
+            "中文": "原則一：摸遍天花地板，也不依人示範",
+            "English": "Principle One: Touch the entire ceiling and floor, but don't follow someone else's guide"
+        },
+        "原則二：只靠線索，不求攻略": {
+            "中文": "原則二：只靠線索，不求攻略",
+            "English": "Principle Two: Rely on clues, not walkthrough"
+        },
+        "原則三：享受過程": {
+            "中文": "原則三：享受過程",
+            "English": "Principle Three: Enjoy the Process"
+        },
+        "會議記錄241：": {
+            "中文": "會議記錄241：",
+            "English": "Meeting Minutes 241:"
+        },
+        "管理員：夫人有咩吩咐？": {
+            "中文": "管理員：夫人有甚麼吩咐？",
+            "English": "Manager: Madam, what are your orders?"
+        },
+        "\\N[4]：唔好再叫我夫人，叫我\\N[4]就好": {
+            "中文": "\\N[4]：別再叫我夫人，叫我\\N[4]就好",
+            "English": "\\N[4]: It’s better not to call me Madam. Just call me \\N[4]."
+        },
+        "管理員：明白，夫。。\\N[4]": {
+            "中文": "管理員：明白，夫。。 \\N[4]",
+            "English": "Manager: Understood, Mad... \\N[4]"
+        },
+        "\\N[4]：。。呢幾個設計圖，你諗下點整出黎": {
+            "中文": "\\N[4]：。。這幾個設計圖，你想想怎麼做出來",
+            "English": "\\N[4]: ...Those design, try to put them together."
+        },
+        "管理員：呢個。。可能需要裝修下先整倒": {
+            "中文": "管理員：這個。。可能需要裝修下才整倒",
+            "English": "Manager: Um... it might need some renovations first."
+        },
+        "\\N[4]：資金方面唔使考慮咁多": {
+            "中文": "\\N[4]：資金方面不用考慮那麼多",
+            "English": "\\N[4]: There's no need to worry too much about funding."
+        },
+        "管理員：知道！": {
+            "中文": "管理員：知道！",
+            "English": "Manager: Understood!"
+        },
+        "\\N[4]：話說點解你咁鍾意寫會議記錄？": {
+            "中文": "\\N[4]：話說為甚麼你這麼喜歡寫會議記錄？",
+            "English": "\\N[4]: By the way, why do you like writing meeting minutes so much?"
+        },
+        "管理員：我。。我都係聽主人吩咐": {
+            "中文": "管理員：我。。我都是聽主人吩咐",
+            "English": "Manager: I... I'm just following the master's orders."
+        },
+        "\\N[4]：咁你同我銷毀左呢份紀錄佢": {
+            "中文": "\\N[4]：那你給我銷毀了這份紀錄它",
+            "English": "\\N[4]: Then I order you to destroy this record."
+        },
+        "管理員：好。。好吧": {
+            "中文": "管理員：好。。好了",
+            "English": "Manager: A... alright."
+        },
+        "備用的床單和衣物": {
+            "中文": "備用的床單和衣物",
+            "English": "spare sheets and clothes"
+        },
+        "打不開": {
+            "中文": "打不開",
+            "English": "Cannot open"
+        },
+        "呢度門頭先唔係鎖住㗎咩？": {
+            "中文": "這門剛剛不是鎖著的嗎？",
+            "English": "Isn't this door locked before?"
+        },
+        "有一本書缺失": {
+            "中文": "有一本書缺失",
+            "English": "One book is missing"
+        },
+        "要把\\C[1]枕頭下的書\\C[0]放進去嗎？": {
+            "中文": "要把\\C[1]枕頭下的書\\C[0]放進去嗎？",
+            "English": "Do you want to put \\C[1]Book Under the Pillow\\C[0] into it?"
+        },
+        "失去 枕頭下的書\\I[186]": {
+            "中文": "失去 枕頭下的書\\I[186]",
+            "English": "Lost the book under the pillow\\I[186]"
+        },
+        "好似有咩機關打開左": {
+            "中文": "好像有甚麼機關打開了",
+            "English": "It seems like some kind of mechanism has been opened"
+        },
+        "個書櫃自己移開左": {
+            "中文": "書櫃自己移開了",
+            "English": "The bookshelf moved away."
+        },
+        "地下室？聽落好危險喎": {
+            "中文": "地下室?聽起來很危險喔",
+            "English": "The basement? That sounds dangerous!"
+        },
+        "地下室可能有出口呢": {
+            "中文": "地下室可能有出口呢",
+            "English": "There might be an exit in the basement."
+        },
+        "快啲去睇下啦！": {
+            "中文": "快去看看吧！",
+            "English": "Go check it out quickly!"
+        },
+        "整齊的浴巾": {
+            "中文": "整齊的浴巾",
+            "English": "Neat bath towels"
+        },
+        "又有鎖匙不見了，正在尋找。": {
+            "中文": "又有鑰匙不見了，正在尋找。",
+            "English": "Another key is missing. We're looking for it."
+        },
+        "我唔知密碼係咩": {
+            "中文": "我不知道密碼是甚麼",
+            "English": "I don't know what the password is."
+        },
+        "找到 接待處後備鎖匙\\I[195]": {
+            "中文": "找到 接待處後備鑰匙\\I[195]",
+            "English": "Found Reception Spare Key\\I[195]"
+        },
+        "為防後備鎖匙被盜，盒子密碼每天都需要更改。": {
+            "中文": "為防後備鑰匙被盜，盒子密碼每天都需要更改。",
+            "English": "To prevent the backup key from being stolen, the box's password needs to be changed daily."
+        },
+        "有夠煩，改成每日的日期就好了。。。": {
+            "中文": "有夠煩，改成每天的日期就好了。。。",
+            "English": "This is so annoying. Let me just change it to a daily date."
+        },
+        "《管理員的日記》": {
+            "中文": "《管理員的日記》",
+            "English": "\"Manager's Diary\""
+        },
+        "前半都被撕毀": {
+            "中文": "前半都被撕毀",
+            "English": "The first half was torn apart"
+        },
+        "第127日": {
+            "中文": "第127天",
+            "English": "Day 127"
+        },
+        "老闆說最近生意有啲冷清，如果有更多客人就好了。": {
+            "中文": "老闆說最近生意有點冷清，如果有更多客人就好了。",
+            "English": "The owner said business has been a bit slow lately.\nIt would be great if there were more customers."
+        },
+        "第182日": {
+            "中文": "第182天",
+            "English": "Day 182"
+        },
+        "最近有點無聊，向老闆娘借了一些道具，打造了一條暗道。": {
+            "中文": "最近有點無聊，向老闆娘借了一些道具，打造了一條暗道。",
+            "English": "I was a bit bored lately, so I borrowed some props from the lady boss and created a secret passage."
+        },
+        "第241日": {
+            "中文": "第241天",
+            "English": "Day 241"
+        },
+        "終於有客人入住了。": {
+            "中文": "終於有客人入住了。",
+            "English": "Finally, guests have checked in."
+        },
+        "很期待客人的表現，希望他能令老闆高興。": {
+            "中文": "很期待客人的表現，希望他能讓老闆高興。",
+            "English": "I'm really looking forward to the guest's performance and hope he can make master happy."
+        },
+        "第275日": {
+            "中文": "第275天",
+            "English": "Day 275"
+        },
+        "要開始為老闆寫報告了，很久沒有寫報告。": {
+            "中文": "要開始為老闆寫報告了，好久沒寫報告。",
+            "English": "I need to start writing reports for master. It's been a long time since I've done that."
+        },
+        "記錄簿應該在圖書室。": {
+            "中文": "記錄簿應該在圖書室。",
+            "English": "The logbook should be in the library."
+        },
+        "客人入住？ 呢度係旅館？": {
+            "中文": "客人入住？ 這是旅館？",
+            "English": "Guests are checking in? Is this a motel?"
+        },
+        "要進去牆壁的破洞嗎？": {
+            "中文": "要進去牆壁的破洞嗎？",
+            "English": "Do you want to go through the hole in the wall?"
+        },
+        "新鮮的蘋果": {
+            "中文": "新鮮的蘋果",
+            "English": "Fresh apples"
+        },
+        "要檢查枕頭嗎？": {
+            "中文": "要檢查枕頭嗎？",
+            "English": "Do you want to check the pillow?"
+        },
+        "找到 枕頭下的書\\I[186]": {
+            "中文": "找到 枕頭下的書\\I[186]",
+            "English": "Found Book Under the Pillow \\[186]"
+        },
+        "很整齊地放滿了書本": {
+            "中文": "很整齊的放滿了書本",
+            "English": "The books were neatly arranged."
+        },
+        "洗衣機": {
+            "中文": "洗衣機",
+            "English": "Washing machine"
+        },
+        "鮮花": {
+            "中文": "鮮花",
+            "English": "Fresh flowers"
+        },
+        "假的窗戶": {
+            "中文": "假的窗戶",
+            "English": "Fake windows"
+        },
+        "睇唔倒出面": {
+            "中文": "看不倒外面",
+            "English": "Can't see the outside"
+        },
+        "裝滿了一式一樣的西裝": {
+            "中文": "裝滿了式一樣的西裝",
+            "English": "Filled with identical suits."
+        },
+        "破裂的罐": {
+            "中文": "破裂的罐子",
+            "English": "Broken can"
+        },
+        "都係唔好掂好": {
+            "中文": "還是不要掂好",
+            "English": "Better not to touch it."
+        },
+        "洗手盤": {
+            "中文": "洗手盤",
+            "English": "Handwashing basin"
+        },
+        "嘩！": {
+            "中文": "哇!",
+            "English": "Wow!"
+        },
+        "成塊地板穿左": {
+            "中文": "整塊地板穿了",
+            "English": "The whole floor is broken!"
+        },
+        "好彩我身手敏捷姐": {
+            "中文": "還好我身手敏捷姐",
+            "English": "Luckily, I'm agile."
+        },
+        "呢塊木板咁完整，一陣可能仲有用，攞住先": {
+            "中文": "這木板這麼完整，一會兒可能還有用，拿著先",
+            "English": "This plank is so intact, it might be useful later, let's keep it for now."
+        },
+        "找到 木板\\I[295]": {
+            "中文": "找到 木板\\I[295]",
+            "English": "Found Wooden Plank \\I[295]"
+        },
+        "找到 對講機1\\I[244]": {
+            "中文": "找到 對講機1\\I[244]",
+            "English": "Found Walkie-Talkie 1\\I[244]"
+        },
+        "搵到對講機！": {
+            "中文": "找到對講機！",
+            "English": "Found a walkie-talkie!"
+        },
+        "\\N[2]都有嘅話就可以同佢溝通啦！": {
+            "中文": "\\N[2]都有的話就可以跟他溝通啦！",
+            "English": "If \\N[2] also have one, I can communicate with her!"
+        },
+        "有各種食物同工具": {
+            "中文": "有各種食物和工具",
+            "English": "Various of foods and tools"
+        },
+        "啲食物過晒期嘅。。。": {
+            "中文": "全部食物都到期了。。。",
+            "English": "The foods are all expired..."
+        },
+        "找到 螺絲批\\I[242]": {
+            "中文": "找到 螺絲批\\I[242]",
+            "English": "Found Screwdriver\\I[242]"
+        },
+        "螺絲批！一定有啲用途": {
+            "中文": "螺絲批！一定有點用途",
+            "English": "A screwdriver! It must be useful."
+        },
+        "問下\\N[2]有冇用先": {
+            "中文": "問一下\\N[2]有沒有用先",
+            "English": "Let me ask if \\N[2] need it."
+        },
+        "前往大堂交換角色處可以將物品交給另一個角色": {
+            "中文": "前往大堂交換角色處可以將物品交給另一個角色",
+            "English": "You can pass items to another character at the character exchange spot in the lobby."
+        },
+        "沒有電話線的電話": {
+            "中文": "沒有電話線的電話",
+            "English": "Telephone without telephone line"
+        },
+        "殘舊的梳妝台": {
+            "中文": "殘舊的梳妝台",
+            "English": "Old dressing table"
+        },
+        "沒有水的洗手盤": {
+            "中文": "沒有水的洗手盤",
+            "English": "Handwashing basin without water"
+        },
+        "沒有水的馬桶": {
+            "中文": "沒有水的馬桶",
+            "English": "Toilet without water"
+        },
+        "彷彿可以看到地底的深洞": {
+            "中文": "彷彿能看見地底的深洞",
+            "English": "It's as if you can see the underground."
+        },
+        "喺度瞓會唔會跌落去㗎": {
+            "中文": "在這裡睡覺會掉下去嗎",
+            "English": "Will someone fall while sleeping here?"
+        },
+        "封塵的雜物": {
+            "中文": "封塵的雜物",
+            "English": "Dusty clutter"
+        },
+        "地下穿晒窿": {
+            "中文": "地下穿曬窿",
+            "English": "The floor is full of holes"
+        },
+        "有木板嘅話或者可以過對面": {
+            "中文": "有木板的話或許可以過對面",
+            "English": "If there is a wooden plank, maybe I can cross to the other side."
+        },
+        "將木板放呢度嘅話，應該就可以": {
+            "中文": "把木板放這裡的話，應該就可以",
+            "English": "If I place a board here, it should work."
+        },
+        "個闡鎖左，呢邊出唔倒去": {
+            "中文": "闡鎖了，這邊出不去",
+            "English": "The gate is locked. I can't get out from here."
+        },
+        "電話？唔通要打比邊個？": {
+            "中文": "電話？要打給誰呢？",
+            "English": "A phone? Who should I call?"
+        },
+        "電話旁有張小紙條": {
+            "中文": "電話旁有一張小紙條",
+            "English": "There was a small note next to the phone."
+        },
+        "前往地下室請致電接待處": {
+            "中文": "前往地下室請致電接待處",
+            "English": "Please call reception to access the basement."
+        },
+        "請輸入\\C[1]16位\\C[0]號碼": {
+            "中文": "請輸入\\C[1]16位\\C[0]號碼",
+            "English": "Please enter a \\C[1]16-digit\\C[0] number."
+        },
+        "\\C[1]前8位\\C[0]號碼": {
+            "中文": "\\C[1]前8位\\C[0]號碼",
+            "English": "\\C[1]First 8 digits\\C[0] number"
+        },
+        "\\C[1]後8位\\C[0]號碼": {
+            "中文": "\\C[1]後8位\\C[0]號碼",
+            "English": "\\C[1]Last 8 digits\\C[0] number"
+        },
+        "你輸入的號碼：\\V[9] \\V[10]": {
+            "中文": "您輸入的號碼：\\V[9]\\V[10]",
+            "English": "The number you entered: \\V[9] \\V[10]"
+        },
+        "確定要打出嗎？": {
+            "中文": "確定要打出嗎？",
+            "English": "Are you sure you want to make the call?"
+        },
+        "打通左啦！": {
+            "中文": "打通了！",
+            "English": "It got through!"
+        },
+        "電話無法接通。。": {
+            "中文": "電話無法接通。。",
+            "English": "This number cannot be dialed."
+        },
+        "你好像還不知道號碼": {
+            "中文": "你好像還不知道號碼",
+            "English": "Seems like you don't know the number."
+        },
+        "電話已經打通": {
+            "中文": "電話已打通",
+            "English": "The call has been connected."
+        },
+        "一陣再打啦": {
+            "中文": "一會兒再打吧",
+            "English": "Let's call again in a bit."
+        },
+        "電話忙線。。": {
+            "中文": "電話忙線。。",
+            "English": "The phone line is busy..."
+        },
+        "冇得再打lu~": {
+            "中文": "沒法再打囉~",
+            "English": "Cannot make the call again."
+        },
+        "電話自動收左線？": {
+            "中文": "電話自動收線了？",
+            "English": "The phone automatically disconnected(?"
+        },
+        "有咩開左": {
+            "中文": "有甚麼開了",
+            "English": "Something is opened"
+        },
+        "殘破的床": {
+            "中文": "殘破的床",
+            "English": "Broken bed"
+        },
+        "好似成十年冇人打理咁": {
+            "中文": "好像整整10年沒人打理",
+            "English": "It seems like no one has taken care of it for ten years."
+        },
+        "鎖住了": {
+            "中文": "被鎖住了",
+            "English": "Locked"
+        },
+        "要打開箱子嗎？": {
+            "中文": "要打開箱子嗎？",
+            "English": "Do you want to open the box?"
+        },
+        "隱約看到箱子深處寫著\\C[1]2461912\\C[0]": {
+            "中文": "隱約看到箱子深處寫著\\C[1]2461912\\C[0]",
+            "English": "You vaguely see the words \\C[1]2461912\\C[0] written deep inside the box."
+        },
+        "甚麼也沒有": {
+            "中文": "甚麼都沒有",
+            "English": "Nothing there"
+        },
+        "有個小型的藍色箱子（關閉）": {
+            "中文": "有個小型的藍色箱子(關閉)",
+            "English": "There is a small blue box (closed)."
+        },
+        "要打開小型藍色箱子嗎？": {
+            "中文": "要打開小型藍色箱子嗎？",
+            "English": "Do you want to open the small blue box?"
+        },
+        "連同入面的藍色箱子關閉了": {
+            "中文": "連同裡面的藍色箱子關閉了",
+            "English": "The blue box inside closed simultaneously."
+        },
+        "有個小型的藍色箱子（開啟）": {
+            "中文": "有個小型的藍色箱子(開啟)",
+            "English": "There is a small blue box (open)."
+        },
+        "要關閉小型藍色箱子嗎？": {
+            "中文": "要關閉小型藍色箱子嗎？",
+            "English": "Do you want to close the small blue box?"
+        },
+        "一條尖刺從箱子中彈出，刺穿了你的心臟": {
+            "中文": "一條尖刺從箱子中彈出，刺穿了你的心臟",
+            "English": "A sharp spike shot out of the box and pierced your heart."
+        },
+        "你留下了你的伙伴獨自冒險\\.。\\.。\\.。": {
+            "中文": "你留下了你的伙伴獨自冒險\\.。 \\.. \\..",
+            "English": "You left your companion behind to embark on the adventure alone."
+        },
+        "請不要把書本或紀錄帶走": {
+            "中文": "請不要把書本或紀錄帶走",
+            "English": "Please do not take the books or records away."
+        },
+        "有個被螺絲固定的小箱子": {
+            "中文": "有個被螺絲固定的小箱子",
+            "English": "There was a small box secured with screws."
+        },
+        "找到 催眠監獄鎖匙\\I[195]": {
+            "中文": "找到 催眠監獄鑰匙\\I[195]",
+            "English": "Found Hypnotic Prison Key\\I[195]"
+        },
+        "我冇螺絲批。。": {
+            "中文": "我沒有螺絲批。。",
+            "English": "I don't have a screwdriver."
+        },
+        "最近聯絡不到管理員，他肯定又把對講機亂放": {
+            "中文": "最近聯絡不到管理員，他肯定又把對講機亂放",
+            "English": "I haven't been able to contact the manager lately.\nHe must have left the walkie-talkie lying around again."
+        },
+        "找到 對講機2\\I[244]": {
+            "中文": "找到 對講機2\\I[244]",
+            "English": "Found Walkie-Talkie 2\\I[244]"
+        },
+        "有對講機！": {
+            "中文": "有對講機！",
+            "English": "There's a walkie-talkie!"
+        },
+        "但得一個應該冇用。。。": {
+            "中文": "但得一個應該沒用。。。",
+            "English": "But having one is probably useless..."
+        },
+        "《住客紀錄 19》": {
+            "中文": "《住客紀錄19》",
+            "English": "\"Guest Record 19\""
+        },
+        "姓名：白石 健人": {
+            "中文": "姓名：白石 健人",
+            "English": "Name: Kento Shiraishi"
+        },
+        "出生日期：1031年  4月 13日": {
+            "中文": "出生日期：1031年  4月 13日",
+            "English": "Date of birth: April 13, 1031"
+        },
+        "入住日期：1056年 11月 27日": {
+            "中文": "入住日期：1056年 11月 27日",
+            "English": "Check-in date: November 27, 1056"
+        },
+        "退房日期：1058年 11月 27日": {
+            "中文": "退房日期：1058年 11月 27日",
+            "English": "Check-out date: November 27, 1058"
+        },
+        "行為記錄：長期宅在家中，經常無所事事。": {
+            "中文": "行為記錄：長期宅在家中，經常無所事事。",
+            "English": "Behavioral record: Stays at home and often does nothing."
+        },
+        "    沒有專業技能，沒有家屬朋友。\\!": {
+            "中文": "    沒有專業技能，沒有家屬朋友。 \\!",
+            "English": "    No professional skills, no family or friends.\\!"
+        },
+        "催眠潛質：B-。意志力虛弱，有發展空間，可培訓。": {
+            "中文": "催眠潛質：B-。意志力虛弱，有發展空間，可培訓。",
+            "English": "Hypnotic potential: B-. Weak willpower, room for development, trainable."
+        },
+        "催眠結果：陷入夢境，不對外界刺激作出任何反應。": {
+            "中文": "催眠結果：陷入夢境，不對外界刺激作出任何反應。",
+            "English": "Hypnosis results: Test object is immersed in a dream state and does not respond to external stimuli."
+        },
+        "    沒有學習能力。\\!": {
+            "中文": "    沒有學習能力。 \\!",
+            "English": "    Lacking learning ability.\\!"
+        },
+        "處置方法：消毀肉體。": {
+            "中文": "處置方法：消毀肉體。",
+            "English": "Handling method: Destroy the body."
+        },
+        "很久沒有客人了，客房鎖匙交給管理員保管了，以防有人亂入。": {
+            "中文": "好久沒客人了，客房鑰匙交給管理員保管了，以防有人亂入。",
+            "English": "There haven't been any guests for a long time.\nThe room key is given to the manager in case anyone breaks in."
+        },
+        "鎖起來了的話，密碼應該又是他的生日": {
+            "中文": "鎖起來了的話，密碼應該又是他的生日",
+            "English": "If it's locked, the password must be his birthday again."
+        },
+        "真是懶惰的傢伙": {
+            "中文": "真是懶惰的傢伙",
+            "English": "What a lazy guy."
+        },
+        "《住客紀錄 54》": {
+            "中文": "《住客紀錄54》",
+            "English": "\"Guest Record 54\""
+        },
+        "姓名：杜生 瞳音": {
+            "中文": "姓名：杜生 瞳音",
+            "English": "Name: Hitone Morio"
+        },
+        "出生日期：1049年  8月 13日": {
+            "中文": "出生日期：1049年  8月 13日",
+            "English": "Date of birth: August 13, 1049"
+        },
+        "入住日期：1066年  1月 20日": {
+            "中文": "入住日期：1066年  1月 20日",
+            "English": "Check-in date: January 20, 1066"
+        },
+        "退房日期：--": {
+            "中文": "退房日期：--",
+            "English": "Check-out date: --"
+        },
+        "行為記錄：每天早睡早起，有運動習慣。": {
+            "中文": "行為記錄：每天早睡早起，有運動習慣。",
+            "English": "Behavioral record: Goes to bed and gets up early every day. Has habit of exercising."
+        },
+        "    工作有點馬虎。對朋友、伴侶忠心。\\!": {
+            "中文": "    工作有點馬虎。對朋友、伴侶忠心。\\!",
+            "English": "    A bit careless at work. Loyal to friends and partner."
+        },
+        "催眠潛質：A-。良好的精神、肉體健康。": {
+            "中文": "催眠潛質：A-。良好的精神、肉體健康。",
+            "English": "Hypnotic potential: A-. Good mental and physical health."
+        },
+        "催眠結果：自我意識強大，保留原先人格。": {
+            "中文": "催眠結果：自我意識強大，保留原先人格。",
+            "English": "Hypnosis results: Strong self-awareness, original personality retained."
+        },
+        "    能完美聽從指令。\\!": {
+            "中文": "    能完美聽從指令。\\!",
+            "English": "    It can perfectly follow instructions."
+        },
+        "處置方法：就職///////": {
+            "中文": "處置方法：就職///////",
+            "English": "Handling method: Taking title///////"
+        },
+        "處置方法比人擦走左？": {
+            "中文": "處置方法比人擦走左？",
+            "English": "The handling method was wiping away(?"
+        },
+        "《住客紀錄 69》": {
+            "中文": "《住客紀錄 69》",
+            "English": "\"Guest Record 69\""
+        },
+        "姓名：孫陽 碧海": {
+            "中文": "姓名：孫陽 碧海",
+            "English": "Name: Aomi Sonyo"
+        },
+        "出生日期：1048年  6月 19日": {
+            "中文": "出生日期：1048年  6月 19日",
+            "English": "Date of birth: June 19, 1048"
+        },
+        "入住日期：1072年  2月 14日": {
+            "中文": "入住日期：1072年  2月 14日",
+            "English": "Check-in date: February 14, 1072"
+        },
+        "退房日期：1072年  6月  4日": {
+            "中文": "退房日期：1072年  6月  4日",
+            "English": "Check-out date: June 4, 1072"
+        },
+        "行為記錄：生活日夜顛倒，網上遊戲成癮。": {
+            "中文": "行為記錄：生活日夜顛倒，網上遊戲成癮。",
+            "English": "Behavioral record: Irregular lifestyle, addicted to online games."
+        },
+        "    沉迷二次元，想像力豐富。\\!": {
+            "中文": "    沉迷二次元，想像力豐富。\\!",
+            "English": "    Obsessed with anime and manga, possessing a rich imagination."
+        },
+        "催眠潛質：B+。可利用其幻想加強能力。": {
+            "中文": "催眠潛質：B+。可利用其幻想加強能力。",
+            "English": "Hypnotic potential: B+. Abilities can be enhanced through imagination."
+        },
+        "催眠結果：能聽從簡單指令，但展露隱藏的血性。": {
+            "中文": "催眠結果：能聽從簡單指令，但展露隱藏的血性。",
+            "English": "Hypnotic results: Able to follow simple instructions, but reveals hidden bloodlust."
+        },
+        "    進行複雜的任務易怒，極度殘暴。\\!": {
+            "中文": "    進行複雜的任務易怒，極度殘暴。\\!",
+            "English": "    Easily angered when performing complex tasks, extremely brutal."
+        },
+        "處置方法：冷凍肉體。": {
+            "中文": "處置方法：冷凍肉體。",
+            "English": "Handling method: Freeze the body."
+        },
+        "《住客紀錄 82》": {
+            "中文": "《住客紀錄 82》",
+            "English": "\"Guest Record 82\""
+        },
+        "姓名：黒川 翔真": {
+            "中文": "姓名：黒川 翔真",
+            "English": "Name: Shoma Kurokawa"
+        },
+        "出生日期：1050年  6月  6日": {
+            "中文": "出生日期：1050年  6月  6日",
+            "English": "Date of birth: June 6, 1050"
+        },
+        "入住日期：1069年  4月 15日": {
+            "中文": "入住日期：1069年  4月 15日",
+            "English": "Check-in date: April 15, 1069"
+        },
+        "退房日期：1069年  5月  1日": {
+            "中文": "退房日期：1069年  5月  1日",
+            "English": "Check-out date: May 1, 1069"
+        },
+        "行為記錄：足不出戶，不與人交流。": {
+            "中文": "行為記錄：足不出戶，不與人交流。",
+            "English": "Behavioral record: Staying at home and not communicating with others."
+        },
+        "    總帶著筆記本，看似是來溫書的大學生。\\!": {
+            "中文": "    總帶著筆記本，看似是來溫書的大學生。\\!",
+            "English": "    Always carries a notebook. Seems like a college student studying."
+        },
+        "催眠潛質：B-。高智能的人較難被催眠，但成功後能力較高。": {
+            "中文": "催眠潛質：B-。高智能的人較難被催眠，但成功後能力較高。",
+            "English": "Hypnotic potential: B-. Highly intelligent but difficult to hypnotize."
+        },
+        "催眠結果：不會說話，展示高效工作能力。": {
+            "中文": "催眠結果：不會說話，展示高效工作能力。",
+            "English": "Hypnosis results: Unable to speak, but demonstrated high work efficiency."
+        },
+        "    三日後七孔流血，腦過載死亡。\\!": {
+            "中文": "    三日後七孔流血，腦過載死亡。\\!",
+            "English": "    Three days later, bleeding all over his face, died from brain overload."
+        },
+        "一堆不明的藥水": {
+            "中文": "一堆不明的藥水",
+            "English": "A pile of unidentified medicines"
+        },
+        "有冇枝可以令我青春常駐呢": {
+            "中文": "有沒有一個能讓我青春常駐呢",
+            "English": "Is there any that can keep me young forever?"
+        },
+        "難道是催眠的方式錯了嗎？": {
+            "中文": "難道是催眠的方式錯了嗎？",
+            "English": "Was the hypnosis method wrong?"
+        },
+        "管理員雖然擁有自我行動的意志，但非常聽話": {
+            "中文": "管理員雖然擁有自我行動的意志，但非常聽話",
+            "English": "Although the manager possesses the will to act independently, they are very obedient."
+        },
+        "我的初衷是通過催眠帶人的意識進去我設計好的世界": {
+            "中文": "我的初衷是通過催眠帶人的意識進去我設計好的世界",
+            "English": "My initial intention was to use hypnosis to guide people's consciousness into a world I had designed."
+        },
+        "是慾望把我帶走了": {
+            "中文": "是慾望把我帶走了",
+            "English": "It's the desire that took me away."
+        },
+        "我已經成功讓人體驗我設計的世界了": {
+            "中文": "我已經成功讓人體驗我設計的世界了",
+            "English": "I have successfully let people experience the world I designed."
+        },
+        "但是他們無法回到催眠前的狀態，還差甚麼呢？": {
+            "中文": "但他們無法回到催眠前的狀態，還差甚麼呢？",
+            "English": "But they can't return to their pre-hypnotic state. What's missing?"
+        },
+        "呢度咁多人嘅！？": {
+            "中文": "這裡那麼多人的！ ?",
+            "English": "There are so many people here!?"
+        },
+        "嘿嘿...嘿嘿": {
+            "中文": "嘿嘿...嘿嘿",
+            "English": "Hehe...hehe"
+        },
+        "zzZZzzz": {
+            "中文": "zzZZzzz",
+            "English": "zzZZzzz"
+        },
+        "好肚餓。。": {
+            "中文": "好肚餓.。",
+            "English": "I'm so hungry..."
+        },
+        "閃令令\\.，好靚\\.，哈哈\\.哈": {
+            "中文": "閃令令\\.，好美\\.，哈哈\\.哈",
+            "English": "Shiny!\\. So beautiful\\. Ha\\.haha!"
+        },
+        "weeeeeeeeeeeeeee": {
+            "中文": "嘩嘩嘩嘩嘩嘩嘩！",
+            "English": "weeeeeeeeeeeeeee!"
+        },
+        "好嘈好嘈好嘈好嘈好嘈好嘈好嘈好嘈": {
+            "中文": "好嘈好嘈好嘈好嘈好嘈好嘈好嘈",
+            "English": "Noisy, noisy, noisy, noisy, noisy, noisy, noisy"
+        },
+        "\\{喂！": {
+            "中文": "\\{嘿!",
+            "English": "\\{Hey!"
+        },
+        "點解你地比人困住晒嘅": {
+            "中文": "為甚麼你們被人困住了",
+            "English": "Why are you all trapped here?"
+        },
+        "我要點救你地出黎？": {
+            "中文": "我要怎麼把你們救出來？",
+            "English": "How can I get you out of here?"
+        },
+        "唔使救啦": {
+            "中文": "不用救啦",
+            "English": "No need to save us."
+        },
+        "救左出去都係一班痴線佬": {
+            "中文": "出了去也是一群瘋子",
+            "English": "We are all crazy people even if we can escape."
+        },
+        "其實我都係誤打誤撞入左黎呢間屋": {
+            "中文": "其實我也是誤打誤撞進了這間房子",
+            "English": "Actually, I stumbled into this house by accident."
+        },
+        "然後就比人鎖左喺度走唔倒": {
+            "中文": "然後就被鎖在了走不了",
+            "English": "Then someone locked me up here and I couldn't get out."
+        },
+        "你地可唔可以幫我出去。。。": {
+            "中文": "你們能不能幫我出去。。。",
+            "English": "Could you help me get out of here..?"
+        },
+        "我地比人困住晒又點會幫倒你。。。": {
+            "中文": "我們被人困住又怎能幫得到你。。。",
+            "English": "We are grounded, how can we help you..."
+        },
+        "不過你幫倒我嘅話，我都幫下你嘅": {
+            "中文": "不過你能幫我的話，我也可以你幫一下",
+            "English": "But if you do me a favour, I'll give you a hand."
+        },
+        "唔救你嘅話，我有咩可以幫你？": {
+            "中文": "不救你的話，我有甚麼可以幫你呢？",
+            "English": "If I'm not going to save you, what can I do for you?"
+        },
+        "我地比人困喺度實在太悶，不如你同我地玩個遊戲？": {
+            "中文": "我們被人困在這裡實在太悶，不如你跟我們玩個遊戲？",
+            "English": "We're so bored here, why don't you play a game with us?"
+        },
+        "\\{\\{大家！我地玩遊戲啦！！": {
+            "中文": "\\{\\{大家！我們玩遊戲啦！！",
+            "English": "\\{\\{Hey everyone! Let's play a game!"
+        },
+        "玩？好吖！\\!我要玩！\\!我要玩！\\!我要玩！": {
+            "中文": "玩？好呀！ \\!我要玩！ \\!我要玩！ \\!我要玩！",
+            "English": "Play? Sure! I want to play! I want to play! I want to play!"
+        },
+        "\\{除左你！！": {
+            "中文": "\\{除了你！！",
+            "English": "\\{Except for you!!"
+        },
+        "哈哈哈": {
+            "中文": "哈哈哈",
+            "English": "Hahaha"
+        },
+        "玩完係咪有野食㗎。。。？": {
+            "中文": "玩完是不是有東西吃呀。。。？",
+            "English": "Do we have something to eat after playing...?"
+        },
+        "我鐘意玩\\.，又有得玩\\.，嘿嘿": {
+            "中文": "我喜歡玩\\.，又可以玩了\\.，嘿嘿",
+            "English": "I like to play.\\. I can play again\\., hehe."
+        },
+        "好嘈好嘈，認真玩遊戲好似會靜啲，會靜啲，會靜啲": {
+            "中文": "很吵很吵，認真玩遊戲好像會靜一點，會靜一點，會靜一點",
+            "English": "Noisy, noisy! Seems like playing games seriously they will quiet down.\nit'll be quieter, it'll be quieter."
+        },
+        "聽住啦。我嘅左面同對面，仲有最右邊嘅兩個人，": {
+            "中文": "聽著吧。我的左面和對面，還有最右邊的兩個人，",
+            "English": "Listen up. To my left, opposite from me, and the two people on the rightmost,"
+        },
+        "呢4個人都會一齊呢個玩遊戲": {
+            "中文": "這4個人都會一起這個玩遊戲",
+            "English": "These four people will play the game together."
+        },
+        "認真聽佢地講野，佢地當中只有一個人會講真話": {
+            "中文": "認真聽他們說話，他們當中只有一個人會說真話",
+            "English": "Listen carefully to what they say. There's only one person tells the truth."
+        },
+        "搵出誠實嘅人": {
+            "中文": "找出誠實的人",
+            "English": "Find the honest one"
+        },
+        "咁麻煩嘅。。。": {
+            "中文": "這麼麻煩的。。。",
+            "English": "That's so troublesome..."
+        },
+        "好啦，我試下搵佢出黎！": {
+            "中文": "好吧，我試著把他找出來！",
+            "English": "Fine, I'll try to find him out!"
+        },
+        "嘖，真係掃興": {
+            "中文": "嘖，真是掃興",
+            "English": "Ugh, what a disappointment."
+        },
+        "你好似未聽晒佢地講野喎": {
+            "中文": "你好像沒聽完他們說話喔",
+            "English": "You seem not to have heard what they all say."
+        },
+        "你搵倒誠實嘅人未？": {
+            "中文": "你找到誠實的人了嗎？",
+            "English": "Have you found an honest person yet?"
+        },
+        "邊個講緊真話？": {
+            "中文": "誰在說真話？",
+            "English": "Who's telling the truth?"
+        },
+        "哈哈哈，唔啱！": {
+            "中文": "哈哈哈，不對！",
+            "English": "Haha, incorrect!"
+        },
+        "你再慢慢諗下啦": {
+            "中文": "你再慢慢想想吧",
+            "English": "Think about it slowly."
+        },
+        "犀利喎，希望你唔係估㗎啦": {
+            "中文": "犀利喔，希望你不是猜的啦",
+            "English": "It's sharp, I hope you didn't guess it by luck."
+        },
+        "嗱，攞住啦": {
+            "中文": "嗱，拿著吧",
+            "English": "Here, take it!"
+        },
+        "找到 半條鎖匙\\I[195]": {
+            "中文": "找到半條鑰匙\\I[195]",
+            "English": "Found Half a Key\\I[195]"
+        },
+        "???": {
+            "中文": "???",
+            "English": "???"
+        },
+        "雖然我唔知得半條嘅鎖匙有咩用": {
+            "中文": "雖然我不曉得半條的鑰匙有甚麼用",
+            "English": "Although I don't know what half a key can do."
+        },
+        "希望你搵倒另外果半條啦": {
+            "中文": "希望你找得到另外那半條吧",
+            "English": "I hope you can find another half."
+        },
+        "咁你繼續努力": {
+            "中文": "那你繼續努力",
+            "English": "Then keep up the good work."
+        },
+        "祝你好運": {
+            "中文": "祝你好運",
+            "English": "Good luck."
+        },
+        "找到 鐵盤\\I[196]": {
+            "中文": "找到 鐵盤\\I[196]",
+            "English": "Find Iron Plate\\I[196]"
+        },
+        "咦~ 成個都係口水。。": {
+            "中文": "咦~整個都是口水。。",
+            "English": "Eww~ The whole thing is full of saliva."
+        },
+        "閃令令，好靚，哈哈哈": {
+            "中文": "閃令令，好美，哈哈哈",
+            "English": "Shiny! So beautiful, hahaha"
+        },
+        "你\\.有冇閃令令嘅野？": {
+            "中文": "你\\.有閃令令的東西嗎？",
+            "English": "Do \\.you have any shiny thingy?"
+        },
+        "有嘅話\\.可唔可以\\.同我交換？": {
+            "中文": "有的話\\.可以\\.跟我交換嗎?",
+            "English": "If you \\.have shiny, \\.could you exchange \\.with me?"
+        },
+        "一\\.一定要\\.靚先得㗎！": {
+            "中文": "一\\.一定要\\.漂亮才行啊！",
+            "English": "It \\.must be \\.shiny!"
+        },
+        "你有東西跟他交換嗎？": {
+            "中文": "你有東西跟他交換嗎？",
+            "English": "Do you have anything to exchange with him?"
+        },
+        "好\\.好靚\\.，比\\.比我！": {
+            "中文": "好\\.好漂亮\\.，給\\.給我！",
+            "English": "S\\....so beautiful! \\.Give it \\.to me!"
+        },
+        "我\\.我": {
+            "中文": "我\\.我",
+            "English": "I\\.I."
+        },
+        "用呢個\\.同你\\.交換！": {
+            "中文": "用這個\\.和你\\.交換！",
+            "English": "I'll exchange \\.this with \\.you!"
+        },
+        "好。。好啦": {
+            "中文": "好。。好吧",
+            "English": "O... okay."
+        },
+        "失去 鐵盤\\I[196]": {
+            "中文": "失去 鐵盤\\I[196]",
+            "English": "Lost Iron Plate\\I[196]"
+        },
+        "呢個\\.一啲都\\.唔閃嘅。。": {
+            "中文": "這\\.一點都\\.不閃的。。",
+            "English": "This is \\.not shiny \\.at all."
+        },
+        "多\\.多謝你！": {
+            "中文": "謝\\.謝謝你！",
+            "English": "T\\....thank you \\.so much!"
+        },
+        "靚...靚女\\.信我": {
+            "中文": "美...美女\\.相信我",
+            "English": "P...pretty girl\\.Trust me."
+        },
+        "我...我\\.講真話": {
+            "中文": "我...我\\.說實話",
+            "English": "I...I'm telling \\.the truth."
+        },
+        "已經3日冇人送野食比我地": {
+            "中文": "已經3天沒人送東西給我們吃",
+            "English": "It's been 3 days since anyone has brought us any food."
+        },
+        "聽倒今日廚房有啲動靜": {
+            "中文": "聽到今天廚房有點動靜",
+            "English": "I heard some noises coming from the kitchen today."
+        },
+        "求下你攞啲野食比我": {
+            "中文": "求你拿點吃的給我",
+            "English": "Please give me some food."
+        },
+        "我。。我盡量啦": {
+            "中文": "我。。我盡力吧",
+            "English": "I...I'll tried my best."
+        },
+        "要把蘋果批給他嗎？": {
+            "中文": "要把蘋果批給他嗎？",
+            "English": "Should we distribute the apples to him?"
+        },
+        "失去 一盤蘋果批\\I[265]": {
+            "中文": "失去 一盤蘋果批\\I[265]",
+            "English": "Lost Plate of Apple Pie \\I[265]"
+        },
+        "多謝你": {
+            "中文": "謝謝你",
+            "English": "Thank you."
+        },
+        "好食！好耐冇食過咁好食嘅野啦！": {
+            "中文": "好吃！好久沒吃過這麼好吃的東西啦！",
+            "English": "Delicious! It's been so long since I've had anything this good!"
+        },
+        "個盤飛左出黎。。。": {
+            "中文": "盤子飛出來了。。。",
+            "English": "The plate was thrown out."
+        },
+        "講最少野嘅人講緊真話": {
+            "中文": "說最少話的人說著真話",
+            "English": "Person who speak the least, speak the truth"
+        },
+        "話說你可唔可以搵啲野食比我？": {
+            "中文": "話說你可以找點吃的給我嗎？",
+            "English": "By the way, could you find me some food?"
+        },
+        "我都想玩遊戲。。。": {
+            "中文": "我也想玩遊戲。。。",
+            "English": "I want to play games..."
+        },
+        "好嘈好嘈": {
+            "中文": "很吵很吵",
+            "English": "Noisy, noisy, noisy."
+        },
+        "紅色頭髮嘅人講嘅野信唔過\\.。\\.。因為\\.佢地好嘈。。。": {
+            "中文": "紅色頭髮的人說的話信不過\\.。\\.。因為\\.他們很吵。。。",
+            "English": "Don't trust the red-haired\\..\\... because\\.. they are noisy..."
+        },
+        "對面，壞人": {
+            "中文": "對面，壞人",
+            "English": "Opposite guy, bad."
+        },
+        "個樣凶狠嘅大叔講野竟然咁靦腆，真係可愛": {
+            "中文": "樣子凶狠的大叔說話竟然這麼靦腆，真可愛",
+            "English": "It's so cute that this fierce-looking man talks shyly."
+        },
+        "門鎖住了！": {
+            "中文": "門鎖住了！",
+            "English": "The door is locked!"
+        },
+        "呢度就係\\N[4]間房？": {
+            "中文": "這就是\\N[4]的房間？",
+            "English": "Is this \\N[4]'s room?"
+        },
+        "等陣先，會唔會有人喺度㗎？": {
+            "中文": "稍等一下，會不會有人在呢？",
+            "English": "Wait a moment, would anyone be here?"
+        },
+        "話時話，邊個係\\N[4]？": {
+            "中文": "話說，誰是\\N[4]？",
+            "English": "Speaking of which, who is \\N[4]?"
+        },
+        "呢間屋嘅女主人？": {
+            "中文": "這房屋的女主人？",
+            "English": "Is she the boss lady of the house?"
+        },
+        "佢寫紙條嘅語氣咁可愛，唔似會捉左走人喎": {
+            "中文": "他寫紙條的語氣這麼可愛，不像會抓走人喔",
+            "English": "The way she wrote the note was so cute, she didn't seem like she would kidnap people."
+        },
+        "算啦，如果呢度係主人房嘅話，": {
+            "中文": "算了，如果這裡是主人房的話，",
+            "English": "Forget it, if this were the master bedroom..."
+        },
+        "應該會有有用嘅野幫我地出去": {
+            "中文": "應該會有有用的東西幫助我們出去",
+            "English": "There should be something useful which can help us get out."
+        },
+        "系統正在加載\\|。\\|。\\|。": {
+            "中文": "系統正在加載\\|。\\|。\\|。",
+            "English": "The system is loading \\|. \\|. \\|."
+        },
+        "你。\\.是誰？": {
+            "中文": "你。\\.是誰？",
+            "English": "Who \\.are you?"
+        },
+        "。\\|。\\|。管理員，不要多事": {
+            "中文": "。\\|。\\|。管理員，不要多事",
+            "English": "\\|. \\|. \\|.Manager, please don't meddle."
+        },
+        "。\\|。\\|。未知用戶": {
+            "中文": "。\\|。\\|。未知用戶",
+            "English": "\\|. \\|. \\|.Unknown user"
+        },
+        "。\\|。\\|。\\{\\C[18]入侵者！！": {
+            "中文": "。\\|。\\|。\\{\\C[18]入侵者！！",
+            "English": "\\|. \\|. \\|.\\{\\C[18]Intruder! !"
+        },
+        "。\\|。\\|。歡迎回來，主人": {
+            "中文": "。\\|。\\|。歡迎回來，主人",
+            "English": "\\|. \\|. \\|.Welcome back, Master."
+        },
+        "。\\|。\\|。請問你想要存取甚麼功能？": {
+            "中文": "。\\|。\\|。請問你想要存取甚麼功能？",
+            "English": "\\|. \\|. \\|.What functionality do you want to access?"
+        },
+        "。\\|。\\|。正在呼叫廚房": {
+            "中文": "。\\|。\\|。正在呼叫廚房",
+            "English": "\\|. \\|. \\|.Calling the kitchen."
+        },
+        "。\\|。\\|。已為你點餐\\.，一盤蘋果批": {
+            "中文": "。\\|。\\|。已為你點餐\\.，一盤蘋果批",
+            "English": "\\|. \\|. \\|.I've ordered for you, \\., a plate of apple pie."
+        },
+        "黎啦黎啦，你叫嘅蘋果批黎緊啦~": {
+            "中文": "來啦來啦，你叫的蘋果批來啦~",
+            "English": "Coming coming, the apple pie you've order is coming!"
+        },
+        "有人黎緊！我要搵地方匿埋": {
+            "中文": "有人來緊！我要找地方躲好",
+            "English": "Someone is here! I have to find a place to hide."
+        },
+        "。\\|。\\|。今日已點餐": {
+            "中文": "。\\|。\\|。今日已點餐",
+            "English": "\\|. \\|. \\|.You've already ordered food today."
+        },
+        "距離事件上次發生的日數：": {
+            "中文": "距離事件上次發生的天數：",
+            "English": "Number of days since the event last occurred:"
+        },
+        "\\N[3]出關：464日": {
+            "中文": "\\N[3]出關：464天",
+            "English": "\\N[3] exited the underground: 464 Days"
+        },
+        "客人入住：69 日": {
+            "中文": "客人入住：69 天",
+            "English": "Guest stay: 69 Days"
+        },
+        "客人上門：\\C[18]0\\C[0]  日": {
+            "中文": "客人上門：\\C[18]0\\C[0]  天",
+            "English": "Guest arrival: \\C[18]0\\C[0] Day"
+        },
+        "。\\|。\\|。\\C[18]自毀模式開啟": {
+            "中文": "。\\|。\\|。\\C[18]自毀模式開啟",
+            "English": "\\|. \\|. \\|.\\C[18] Self-destruct mode activated"
+        },
+        "。\\|。\\|。正在測試入侵者擊退系統": {
+            "中文": "。\\|。\\|。正在測試入侵者擊退系統",
+            "English": "\\|. \\|. \\|.Testing intruder encounter system."
+        },
+        "。\\|。\\|。": {
+            "中文": "。\\|。\\|。",
+            "English": "\\|. \\|. \\|."
+        },
+        "。\\|。\\|。你\\.怎麼會來到這裡！？": {
+            "中文": "。\\|。\\|。你\\.怎麼會來到這裡！？",
+            "English": "\\|. \\|. \\|.How did you get here?!"
+        },
+        "。\\|。\\|。\\{\\C[18]別想入侵我的腦袋！！！": {
+            "中文": "。\\|。\\|。\\{\\C[18]別想入侵我的腦袋！！！",
+            "English": "\\|. \\|. \\|.\\{\\C[18] Don't try to invade my brain!!"
+        },
+        "\\C[18]自毀模式已開啟，請找個好地方投胎": {
+            "中文": "\\C[18]自毀模式已開啟，請找個好地方投胎",
+            "English": "\\C[18] Self-destruct mode is activated, please find a good place to be reborn."
+        },
+        "。\\|。\\|。已經為你點餐": {
+            "中文": "。\\|。\\|。已經為你點餐",
+            "English": "\\|. \\|. \\|.I've already ordered for you."
+        },
+        "你、你的伙伴、這間房子和房子裡的陌生人同歸於燼\\.。\\.。\\.。": {
+            "中文": "你、你的伙伴、這間房子和房子裡的陌生人同歸於燼\\.。\\.。\\.。",
+            "English": "You, your companions, this house, and the strangers within, all perished in ashes."
+        },
+        "《\\N[4]的日記》": {
+            "中文": "《\\N[4]的日記》",
+            "English": "\"Diary of \\N[4]\""
+        },
+        "XXXX年3月27日": {
+            "中文": "XXXX年3月27日",
+            "English": "March 27, XXXX"
+        },
+        "我跟老公開了一間密室逃脫的店舖": {
+            "中文": "我跟老公開了一間密室逃脫的店舖",
+            "English": "My husband and I opened an escape room shop."
+        },
+        "新舖開張生意不錯": {
+            "中文": "新舖開張生意不錯",
+            "English": "The new business was not bad"
+        },
+        "玩家都受新型的體驗式遊戲吸引": {
+            "中文": "玩家都受新型的體驗式遊戲吸引",
+            "English": "Players are attracted to new types of immersive games."
+        },
+        "XXXX年7月3日": {
+            "中文": "XXXX年7月3日",
+            "English": "July 3, XXXX"
+        },
+        "最近生意淡薄，有客人反映各遊戲部份都與同行重覆": {
+            "中文": "最近生意淡薄，有客人反映各遊戲部份都與同行重覆",
+            "English": "Business has been slow lately, and some customers have complained that \nthe games are repetitive among competitors."
+        },
+        "而且人們開始覺得逃脫的設定太假，經常出戲": {
+            "中文": "而且人們開始覺得逃脫的設定太假，經常出戲",
+            "English": "Furthermore, people began to feel that the setting was too unrealistic."
+        },
+        "XXXX年9月10日": {
+            "中文": "XXXX年9月10日",
+            "English": "September 10, XXXX"
+        },
+        "我與\\N[3]一起決定休業": {
+            "中文": "我與\\N[3]一起決定休業",
+            "English": "\\N[3] and I decided to suspend the business."
+        },
+        "把密室改造成小旅館，賺點小錢": {
+            "中文": "把密室改造成小旅館，賺點小錢",
+            "English": "We turnt the escape room into a small motel and make some extra money."
+        },
+        "同時各自研究更創新的遊玩方式": {
+            "中文": "同時各自研究更創新的遊玩方式",
+            "English": "At the same time, we both researched more innovative ways to play."
+        },
+        "XXXX年1月28日": {
+            "中文": "XXXX年1月28日",
+            "English": "January 28, XXXX"
+        },
+        "我的機關術進步了，設計了很多新的遊戲": {
+            "中文": "我的機關術進步了，設計了很多新的遊戲",
+            "English": "My mechanical skills have improved, and I've designed many new games."
+        },
+        "我想看看\\N[3]研究成怎麼樣，但他總是拒絕與我分享": {
+            "中文": "我想看看\\N[3]研究成怎麼樣，但他總是拒絕與我分享",
+            "English": "I wonder how \\N[3]'s doing, but he always refused to share with me."
+        },
+        "我只知道他想令人更加投入到遊戲的設定": {
+            "中文": "我只知道他想令人更加投入到遊戲的設定",
+            "English": "All I know is that he wanted to make people more immersed into game settings."
+        },
+        "XXXX年2月12日": {
+            "中文": "XXXX年2月12日",
+            "English": "February 12, XXXX"
+        },
+        "\\N[3]瘋了，我看到他對一個旅館的住客說了些甚麼": {
+            "中文": "\\N[3]瘋了，我看到他對一個旅館的住客說了些甚麼",
+            "English": "\\N[3] went crazy, I saw that he said somethign to a guest."
+        },
+        "那個住客就變得雙目無神了": {
+            "中文": "那個住客就變得雙目無神了",
+            "English": "Then the guest's eyes became lifeless."
+        },
+        "他催眠了那個住客！": {
+            "中文": "他催眠了那個住客！",
+            "English": "He hypnotized the guest!"
+        },
+        "XXXX年3月19日": {
+            "中文": "XXXX年3月19日",
+            "English": "March 19, XXXX"
+        },
+        "\\N[3]這段時間一直在研究催眠嗎？為甚麼不跟我說！": {
+            "中文": "\\N[3]這段時間一直在研究催眠嗎？為甚麼不跟我說！",
+            "English": "Have \\N[3] been researching hypnosis all this time? Why didn't him tell me!"
+        },
+        "他一定在找機會也催眠我，他已經不可信了": {
+            "中文": "他一定在找機會也催眠我，他已經不可信了",
+            "English": "He must be looking for an opportunity to hypnotize me too.\nHe's no longer trustworthy."
+        },
+        "我要保護好自己，用我的機關術": {
+            "中文": "我要保護好自己，用我的機關術",
+            "English": "I need to protect myself, using my mechanical skills."
+        },
+        "整齊的梳妝台，沒有太多化妝品": {
+            "中文": "整齊的梳妝台，沒有太多化妝品",
+            "English": "A neat dressing table with not too many cosmetics."
+        },
+        "找到 一盤蘋果批\\I[265]": {
+            "中文": "找到 一盤蘋果批\\I[265]",
+            "English": "Found A Plate of Apple Pie. \\I[265]"
+        },
+        "小姐，你嘅蘋果批到啦": {
+            "中文": "小姐，您的蘋果派到了",
+            "English": "Lady, your apple pie has arrived."
+        },
+        "咦？小姐呢？": {
+            "中文": "咦？小姐呢？",
+            "English": "Huh? Where's the lady boss?"
+        },
+        "唉，唔好掛住整道具整到廢寢忘餐吖！": {
+            "中文": "唉，別只顧製作道具而廢寢忘餐呀！",
+            "English": "Sigh, don't get so caught up in making props!"
+        },
+        "好險，聽果個人嘅語氣應該係管理員": {
+            "中文": "好險，聽語氣應該是管理員",
+            "English": "Thank goodness, it must be an manager."
+        },
+        "比佢發現就死得啦": {
+            "中文": "被他發現就糟了",
+            "English": "It would be terrible if he catch me."
+        },
+        "你係邊個？！點解你會喺小姐間房㗎？！": {
+            "中文": "你是誰？ ！你怎麼在小姐房間？ ！",
+            "English": "Who are you?! What are you doing in the master room?!"
+        },
+        "喂，SILLI，擊退入侵者！": {
+            "中文": "嘿，SILLI，擊退入侵者！",
+            "English": "Hey SILLI, execute the invaders!"
+        },
+        "要躲在衣櫃嗎？": {
+            "中文": "要躲在衣櫃嗎？",
+            "English": "Should I hide in the closet?"
+        },
+        "匿喺呢度一定會比人發現！": {
+            "中文": "躲在這裡肯定會被發現！",
+            "English": "Hiding here will definitely get me caught!"
+        },
+        "裝滿了各種工具": {
+            "中文": "裝滿了各種工具",
+            "English": "Filled with all kinds of tools."
+        },
+        "個櫃冇位比我匿埋啦！": {
+            "中文": "櫃子裡沒有我躲的地方了！",
+            "English": "There's nowhere for me to hide in the cabinet!"
+        },
+        "要躲在床下嗎？": {
+            "中文": "是躲在床下嗎？",
+            "English": "Should I hide under the bed?"
+        },
+        "呢度應該冇位比我匿埋。。。": {
+            "中文": "這裡應該沒有位置讓我躲。 。 。",
+            "English": "There's probably no space for me to hide in..."
+        },
+        "找到 WD-40\\I[176]": {
+            "中文": "找到 WD-40\\I[176]",
+            "English": "Found WD-40 \\I[176]"
+        },
+        "固定在牆上的錘子": {
+            "中文": "固定在牆上的錘子",
+            "English": "Hammer fixed to the wall"
+        },
+        "摸落去係軟嘅，應該係道具": {
+            "中文": "摸起來軟軟的，應該是道具",
+            "English": "It feels soft to the touch; it must be a prop."
+        },
+        "意義不明的機關設計草稿": {
+            "中文": "意義不明的機關設計草稿",
+            "English": "Ambiguous mechanism design drafts"
+        },
+        "冷掉的咖啡": {
+            "中文": "冷掉的咖啡",
+            "English": "Cold coffee"
+        },
+        "散落的繩子": {
+            "中文": "散落的繩子",
+            "English": "Scattered ropes"
+        },
+        "末端有意義不明的刻度": {
+            "中文": "末端有意義不明的刻度",
+            "English": "The end has an ambiguous scale."
+        },
+        "有啲好奇條繩攞黎度過咩": {
+            "中文": "有些好奇繩子用來量過甚麼",
+            "English": "So curious what the rope have been used to measure?"
+        },
+        "幾個空的玻罐": {
+            "中文": "幾個空的玻罐",
+            "English": "Several empty glass jars"
+        },
+        "沒有反射的鏡子": {
+            "中文": "沒有反射的鏡子",
+            "English": "A mirror without reflection"
+        },
+        "可愛嘅小熊玩偶": {
+            "中文": "可愛的小熊玩偶",
+            "English": "Cute teddy bear"
+        },
+        "沒有打理的植物": {
+            "中文": "沒有打理的植物",
+            "English": "Unattended plants"
+        },
+        "桌上寫滿了各種小遊戲的設計及玩法": {
+            "中文": "桌上寫滿了各種小遊戲的設計及玩法",
+            "English": "The table was covered with designs and gameplay instructions for various mini-games."
+        },
+        "個設計師好似唔係幾擅長改名。。": {
+            "中文": "設計師似乎不太擅長改名字。 。",
+            "English": "The designer doesn't seem to be very good at naming..."
+        },
+        "意義不明的機關設計藍圖": {
+            "中文": "意義不明的機關設計藍圖",
+            "English": "Ambiguous mechanism design blueprints"
+        },
+        "放滿女生的日用品": {
+            "中文": "放滿女生的日用品",
+            "English": "A container filled with women's daily necessities"
+        },
+        "歡迎來到\\N[4]的遊戲室~": {
+            "中文": "歡迎來到\\N[4]的遊戲室~",
+            "English": "Welcome to \\N[4]'s game room~"
+        },
+        "玩家將會參與\\N[4]設計的3個小遊戲": {
+            "中文": "玩家將會參與\\N[4]設計的3個小遊戲",
+            "English": "Players will participate in three mini-games designed by \\N[4]."
+        },
+        "全部通關的玩家有機會可以與\\N[4]見面喔:3": {
+            "中文": "全部通關的玩家有機會可以與\\N[4]見面喔:3",
+            "English": "Players who complete all levels will have a chance to meet \\N[4] :3"
+        },
+        "準備好就進入中間的門開始遊戲吧！": {
+            "中文": "準備好就進入中間的門開始遊戲吧！",
+            "English": "Once you're ready, enter through the middle door and start the game!"
+        },
+        "*在遊戲途中如果卡住可以按\\c[10] R \\c[0]重置": {
+            "中文": "*在遊戲途中如果卡住可以按\\c[10] R \\c[0]重置",
+            "English": "*If you get stuck during the game, you can press \\c[10] R \\c[0] to reset."
+        },
+        "退出房間也會重置關卡": {
+            "中文": "退出房間也會重置關卡",
+            "English": "Leaving the room will also reset the level."
+        },
+        "每通關一個遊戲都會保存進度，下次進門將直接進入下一關": {
+            "中文": "每通關一個遊戲都會保存進度，下次進門將直接進入下一關",
+            "English": "Your progress will be saved after each level you complete.\nYou will directly enter the next level the next time you enter the door."
+        },
+        "但是遊戲途中不能保存遊戲！": {
+            "中文": "但是遊戲途中不能保存遊戲！",
+            "English": "However, you cannot save the game during gameplay!"
+        },
+        "目前進度： \\V[15]/3": {
+            "中文": "目前進度： \\V[15]/3",
+            "English": "Current progress: \\V[15]/3"
+        },
+        "恭喜你通過\\N[4]的遊戲室！": {
+            "中文": "恭喜你通過\\N[4]的遊戲室！",
+            "English": "Congratulations on completing \\N[4]'s game room!"
+        },
+        "再次進門將進入\\C[2]密道": {
+            "中文": "再次進門將進入\\C[2]密道",
+            "English": "Entering the door again will lead to the \\C[2]secret passage"
+        },
+        "恭喜你通過第\\V[15]關！": {
+            "中文": "恭喜你通過第\\V[15]關！",
+            "English": "Congratulations on completing level \\V[15]!"
+        },
+        "再次進門將進入下一關": {
+            "中文": "再次進門將進入下一關",
+            "English": "Entering the door again will take you to the next level."
+        },
+        "第一關：推開石頭，找到能打開門的路": {
+            "中文": "第一關：推開石頭，找到能打開門的路",
+            "English": "First level: Push the rocks and find the path to the door."
+        },
+        "還沒有點亮所有燈呢": {
+            "中文": "還沒有點亮所有燈呢",
+            "English": "Not all the lights are on yet."
+        },
+        "第二關：點亮所有燈": {
+            "中文": "第二關：點亮所有燈",
+            "English": "Second level: Light up all the lights."
+        },
+        "點擊燈會點亮或熄滅他及周圍的燈": {
+            "中文": "點擊燈會點亮或熄滅他及周圍的燈",
+            "English": "Clicking the light will toggle it and the one around it."
+        },
+        "都係唔好再搞佢啦": {
+            "中文": "都係唔好再搞佢啦",
+            "English": "Don't bother it anymore."
+        },
+        "第三關：拉動手把，控制尖刺，找到能打開門的路": {
+            "中文": "第三關：拉動手把，控制尖刺，找到能打開門的路",
+            "English": "Third level: Pull the handle to control the spikes and find a way to the door."
+        },
+        "角色設計：本人\n關卡設計：本人\n編程：本人\n劇本：本人\n遊戲測試員：\n本人 & 友人\n\nPlugin: Translation Engine -- Maybee Rezbit (SomeRanDev)\nhttps://someran.dev/rpgmaker/ \n\n\n\\{感謝遊玩本遊戲！": {
+            "中文": "角色設計：本人\n關卡設計：本人\n編程：本人\n劇本：本人\n遊戲測試員：\n本人 & 友人\n\nPlugin: Translation Engine -- Maybee Rezbit (SomeRanDev)\nhttps://someran.dev/rpgmaker/ \n\n\n\\{感謝遊玩本遊戲！",
+            "English": "Character Design: Myself\nLevel Design: Myself\nProgramming: Myself\nStory: Myself\nGame Testers:\nMyself & Friends\n\nPlugin: Translation Engine -- Maybee Rezbit (SomeRanDev)\nhttps://someran.dev/rpgmaker/ \n\n\n\\{Thank you for playing this game!"
+        }
+    },
+    "cmd": {
+        "繼續": {
+            "中文": "繼續",
+            "English": "Continue"
+        },
+        "新遊戲": {
+            "中文": "新遊戲",
+            "English": "New Game"
+        },
+        "設定": {
+            "中文": "設定",
+            "English": "Options"
+        },
+        "物品": {
+            "中文": "物品",
+            "English": "Item"
+        },
+        "儲存": {
+            "中文": "儲存",
+            "English": "Save"
+        },
+        "結束遊戲": {
+            "中文": "結束遊戲",
+            "English": "Game End"
+        },
+        "總是奔跑": {
+            "中文": "總是奔跑",
+            "English": "Always Dash"
+        },
+        "記著指令": {
+            "中文": "記著指令",
+            "English": "Command Remember"
+        },
+        "語言": {
+            "中文": "語言",
+            "English": "Language"
+        },
+        "BGM 音量": {
+            "中文": "BGM 音量",
+            "English": "BGM Volume"
+        },
+        "BGS 音量": {
+            "中文": "BGS 音量",
+            "English": "BGS Volume"
+        },
+        "ME 音量": {
+            "中文": "ME 音量",
+            "English": "ME Volume"
+        },
+        "SE 音量": {
+            "中文": "SE 音量",
+            "English": "SE Volume"
+        },
+        "主畫面": {
+            "中文": "主畫面",
+            "English": "To Title"
+        },
+        "取消": {
+            "中文": "取消",
+            "English": "Cancel"
+        },
+        "重要物品": {
+            "中文": "重要物品",
+            "English": "Key Item"
+        },
+        "儲存到哪一個檔案？": {
+            "中文": "儲存到哪一個檔案？",
+            "English": "Save to which file?"
+        },
+        "載入哪一個檔案？": {
+            "中文": "載入哪一個檔案？",
+            "English": "Load which file?"
+        },
+        "檔案": {
+            "中文": "檔案",
+            "English": "File"
+        },
+        "確定": {
+            "中文": "確定",
+            "English": "Sure"
+        },
+        "不確定": {
+            "中文": "不確定",
+            "English": "Not sure"
+        },
+        "草原上的大宅前": {
+            "中文": "草原上的大宅前",
+            "English": "In front of the mansion on the grassland"
+        },
+        "夢中": {
+            "中文": "夢中",
+            "English": "In the dream"
+        },
+        "要": {
+            "中文": "要",
+            "English": "Yes"
+        },
+        "不要": {
+            "中文": "不要",
+            "English": "No"
+        },
+        "接通": {
+            "中文": "接通",
+            "English": "Connect"
+        },
+        "掛斷": {
+            "中文": "掛斷",
+            "English": "Hang up"
+        },
+        "不按": {
+            "中文": "不按",
+            "English": "Not press"
+        },
+        "《序》": {
+            "中文": "《序》",
+            "English": "\"Preface\""
+        },
+        "《圖書館大門》": {
+            "中文": "《圖書館大門》",
+            "English": "\"The Gate of the Library\""
+        },
+        "《備註》": {
+            "中文": "《備註》",
+            "English": "\"Remarks\""
+        },
+        "放下": {
+            "中文": "放下",
+            "English": "Put it down"
+        },
+        "知道": {
+            "中文": "知道",
+            "English": "Know"
+        },
+        "不知道": {
+            "中文": "不知道",
+            "English": "Don't know"
+        },
+        "關閉箱子": {
+            "中文": "關閉箱子",
+            "English": "Close the box"
+        },
+        "查看箱子": {
+            "中文": "查看箱子",
+            "English": "View the box"
+        },
+        "甚麼都不做": {
+            "中文": "甚麼都不做",
+            "English": "Do nothing"
+        },
+        "打開": {
+            "中文": "打開",
+            "English": "Open"
+        },
+        "玩": {
+            "中文": "玩",
+            "English": "Play"
+        },
+        "不玩": {
+            "中文": "不玩",
+            "English": "Not play"
+        },
+        "搵倒": {
+            "中文": "搵倒",
+            "English": "Found"
+        },
+        "未搵倒": {
+            "中文": "未搵倒",
+            "English": "Not found"
+        },
+        "白髮女子": {
+            "中文": "白髮女子",
+            "English": "White-haired woman"
+        },
+        "綠髮男子": {
+            "中文": "綠髮男子",
+            "English": "Green-haired man"
+        },
+        "紅髮男子": {
+            "中文": "紅髮男子",
+            "English": "Red-haired man"
+        },
+        "凶狠大叔": {
+            "中文": "凶狠大叔",
+            "English": "Fierce-looking man "
+        },
+        "有": {
+            "中文": "有",
+            "English": "Have"
+        },
+        "沒有": {
+            "中文": "沒有",
+            "English": "Don't have"
+        },
+        "杜生 瞳音": {
+            "中文": "杜生 瞳音",
+            "English": "Hitone Morio"
+        },
+        "不輸入": {
+            "中文": "不輸入",
+            "English": "Not input"
+        },
+        "廚房": {
+            "中文": "廚房",
+            "English": "Kitchen"
+        },
+        "監測紀錄": {
+            "中文": "監測紀錄",
+            "English": "Monitoring records"
+        },
+        "自毀模式": {
+            "中文": "自毀模式",
+            "English": "Self-destruction mode"
+        },
+        "測試": {
+            "中文": "測試",
+            "English": "Test"
+        },
+        "輸入": {
+            "中文": "輸入",
+            "English": "Input"
+        }
+    },
+    "terms": {},
+    "custom": {}
+}
